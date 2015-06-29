@@ -210,7 +210,7 @@ shinyServer(function(input, output, session) {
     })
 
     output$text2 <- renderText({
-        if(input$gomle>0) sprintf("%.1f",data()[[2]])
+        if(input$gomle>0) sprintf("%.1f",data()[[4]])
         else    "No MLE run yet." 
     })
     
