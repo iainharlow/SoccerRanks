@@ -32,7 +32,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Italy,Slovakia,3,0,1/28/1998
 1,1,Tunisia,Serbia,0,3,1/28/1998
 1,1,Costa Rica,Trinidad and Tobago,4,0,1/29/1998
-1,1,Côte d'Ivoire,Mozambique,4,1,1/29/1998
+1,1,Cote d'Ivoire,Mozambique,4,1,1/29/1998
 1,1,El Salvador,Honduras,1,1,1/29/1998
 1,1,Jamaica,Sweden,0,0,1/29/1998
 1,1,Thailand,Korea Republic,0,2,1/29/1998
@@ -44,7 +44,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Honduras,Trinidad and Tobago,1,3,2/1/1998
 1,0,USA,Cuba,3,0,2/1/1998
 0,1,Burkina Faso,Namibia,3,1,2/1/1998
-1,1,Côte d'Ivoire,Cameroon,1,0,2/1/1998
+1,1,Cote d'Ivoire,Cameroon,1,0,2/1/1998
 1,1,Togo,Mali,0,4,2/1/1998
 0,0,El Salvador,Guatemala,0,0,2/2/1998
 0,0,Brazil,Jamaica,0,0,2/3/1998
@@ -66,7 +66,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Iceland,Slovakia,1,2,2/7/1998
 1,1,New Zealand,Korea Republic,0,1,2/7/1998
 0,0,Algeria,Guinea,0,1,2/8/1998
-0,0,Côte d'Ivoire,Namibia,4,3,2/8/1998
+0,0,Cote d'Ivoire,Namibia,4,3,2/8/1998
 0,0,El Salvador,Brazil,0,4,2/8/1998
 0,0,Guatemala,Jamaica,2,3,2/8/1998
 0,0,South Africa,Angola,0,0,2/8/1998
@@ -85,7 +85,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Malta,Georgia,1,3,2/10/1998
 1,0,Burkina Faso,Algeria,2,1,2/11/1998
 0,0,Cameroon,Guinea,2,2,2/11/1998
-0,0,South Africa,Côte d'Ivoire,1,1,2/11/1998
+0,0,South Africa,Cote d'Ivoire,1,1,2/11/1998
 1,1,Australia,Korea Republic,1,0,2/11/1998
 1,1,England,Chile,0,2,2/11/1998
 1,1,Madagascar,Seychelles,5,2,2/11/1998
@@ -100,7 +100,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Cameroon,Algeria,2,1,2/15/1998
 1,0,USA,Mexico,0,1,2/15/1998
 1,1,Australia,Japan,0,3,2/15/1998
-0,0,Côte d'Ivoire,Angola,5,2,2/16/1998
+0,0,Cote d'Ivoire,Angola,5,2,2/16/1998
 0,0,Ghana,Congo DR,0,1,2/16/1998
 0,0,South Africa,Namibia,4,1,2/16/1998
 0,0,Tunisia,Togo,3,1,2/16/1998
@@ -112,7 +112,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Argentina,Romania,2,1,2/19/1998
 0,0,Cameroon,Congo DR,0,1,2/20/1998
 1,0,Burkina Faso,Tunisia,1,1,2/21/1998
-0,0,Côte d'Ivoire,Egypt,0,0,2/21/1998
+0,0,Cote d'Ivoire,Egypt,0,0,2/21/1998
 1,1,USA,Netherlands,0,2,2/21/1998
 0,0,Morocco,South Africa,1,2,2/22/1998
 1,1,Jamaica,Nigeria,2,2,2/22/1998
@@ -201,9 +201,9 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Republic of Ireland,Argentina,0,2,4/22/1998
 1,1,Russia,Turkey,1,0,4/22/1998
 1,1,Scotland,Finland,1,1,4/22/1998
-0,1,Serbia,Korea Republic,3,1,4/22/1998
 1,1,Slovenia,Czech Republic,1,3,4/22/1998
 1,1,Sweden,France,0,0,4/22/1998
+0,1,Serbia,Korea Republic,3,1,4/22/1998
 1,1,Azerbaijan,Uzbekistan,2,1,4/24/1998
 1,1,Brazil,Argentina,0,1,4/29/1998
 1,1,Chile,Lithuania,1,0,4/29/1998
@@ -269,8 +269,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Malta,Wales,0,3,6/3/1998
 1,1,Romania,Paraguay,3,2,6/3/1998
 0,1,Saudi Arabia,Mexico,0,0,6/3/1998
-0,1,Serbia,Japan,1,0,6/3/1998
 1,1,Spain,Northern Ireland,4,1,6/3/1998
+0,1,Serbia,Japan,1,0,6/3/1998
 1,0,Estonia,Faroe Islands,5,0,6/4/1998
 1,1,Korea Republic,China PR,1,1,6/4/1998
 0,1,Morocco,Chile,1,1,6/4/1998
@@ -448,7 +448,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Indonesia,Myanmar,6,2,8/29/1998
 0,1,Thailand,Philippines,3,1,8/29/1998
 1,1,Angola,Zimbabwe,2,1,8/30/1998
-1,1,Burkina Faso,Côte d'Ivoire,1,1,8/30/1998
+1,1,Burkina Faso,Cote d'Ivoire,1,1,8/30/1998
 0,1,Singapore,Laos,4,1,8/30/1998
 1,1,Vietnam,Malaysia,1,0,8/30/1998
 0,1,Myanmar,Philippines,5,2,8/31/1998
@@ -458,8 +458,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Tonga,American Samoa,3,0,9/2/1998
 1,1,Malta,Germany,1,2,9/2/1998
 1,1,Morocco,Senegal,2,0,9/2/1998
-0,1,Serbia,Switzerland,1,1,9/2/1998
 0,1,Singapore,Indonesia,2,1,9/2/1998
+0,1,Serbia,Switzerland,1,1,9/2/1998
 1,0,Cook Islands,American Samoa,4,3,9/3/1998
 0,0,Tonga,Tahiti,0,5,9/3/1998
 1,1,Vietnam,Thailand,0,3,9/3/1998
@@ -509,7 +509,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Kuwait,Korea DPR,4,0,9/13/1998
 1,1,Saudi Arabia,Sudan,2,1,9/14/1998
 1,1,Syria,Oman,0,0,9/15/1998
-1,1,Egypt,Côte d'Ivoire,0,0,9/16/1998
+1,1,Egypt,Cote d'Ivoire,0,0,9/16/1998
 1,1,Qatar,Sudan,1,1,9/16/1998
 1,1,United Arab Emirates,Libya,5,1,9/16/1998
 1,1,Saudi Arabia,Senegal,3,2,9/17/1998
@@ -553,7 +553,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Burkina Faso,Nigeria,0,0,10/4/1998
 1,0,Cameroon,Ghana,1,3,10/4/1998
 1,0,Gabon,Mauritius,2,0,10/4/1998
-1,0,Mali,Côte d'Ivoire,0,1,10/4/1998
+1,0,Mali,Cote d'Ivoire,0,1,10/4/1998
 1,0,Mozambique,Eritrea,3,1,10/4/1998
 0,0,Tahiti,Fiji,2,4,10/4/1998
 1,0,Togo,Guinea,2,0,10/4/1998
@@ -720,7 +720,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Israel,Serbia,2,0,12/23/1998
 1,1,Morocco,Bulgaria,4,1,12/23/1998
 1,1,Kuwait,Egypt,1,1,12/27/1998
-1,1,Côte d'Ivoire,Togo,3,1,1/3/1999
+1,1,Cote d'Ivoire,Togo,3,1,1/3/1999
 1,1,Burkina Faso,Gabon,2,1,1/4/1999
 1,1,Burkina Faso,Mali,1,0,1/10/1999
 1,1,Senegal,Guinea,1,0,1/10/1999
@@ -742,7 +742,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Gabon,3,1,1/24/1999
 0,0,Congo,Mali,0,0,1/24/1999
 1,0,Congo DR,Kenya,2,1,1/24/1999
-0,0,Côte d'Ivoire,Namibia,3,0,1/24/1999
+0,0,Cote d'Ivoire,Namibia,3,0,1/24/1999
 1,0,Ghana,Mozambique,1,0,1/24/1999
 1,0,Guinea,Morocco,1,1,1/24/1999
 1,0,Liberia,Uganda,2,0,1/24/1999
@@ -803,7 +803,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Bahamas,US Virgin Islands,0,0,2/28/1999
 1,0,Burundi,Burkina Faso,1,2,2/28/1999
 1,0,Cameroon,Mozambique,1,0,2/28/1999
-1,0,Congo,Côte d'Ivoire,1,0,2/28/1999
+1,0,Congo,Cote d'Ivoire,1,0,2/28/1999
 0,0,Ghana,Eritrea,5,0,2/28/1999
 1,0,Guyana,Barbados,2,2,2/28/1999
 1,0,Kenya,Zambia,0,1,2/28/1999
@@ -907,7 +907,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Zambia,Kenya,1,0,4/10/1999
 1,0,Burkina Faso,Burundi,3,1,4/11/1999
 1,0,Congo DR,Madagascar,2,0,4/11/1999
-1,0,Côte d'Ivoire,Congo,2,0,4/11/1999
+1,0,Cote d'Ivoire,Congo,2,0,4/11/1999
 1,0,Mali,Namibia,2,1,4/11/1999
 1,0,Mozambique,Cameroon,1,6,4/11/1999
 1,1,Mexico,Ecuador,0,0,4/14/1999
@@ -953,8 +953,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Trinidad and Tobago,South Africa,2,0,5/6/1999
 1,0,Bermuda,Cayman Islands,4,1,5/7/1999
 0,0,Cuba,Bahamas,7,0,5/7/1999
-0,0,Curacao,Suriname,1,1,5/8/1999
 1,0,Namibia,Mali,0,0,5/8/1999
+0,0,Curacao,Suriname,1,1,5/8/1999
 1,0,Bermuda,Cuba,1,2,5/9/1999
 0,0,Cayman Islands,Bahamas,1,4,5/9/1999
 1,1,Jamaica,South Africa,1,1,5/9/1999
@@ -999,7 +999,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Iceland,Armenia,2,0,6/5/1999
 1,0,Italy,Wales,4,0,6/5/1999
 1,0,Latvia,Slovenia,1,2,6/5/1999
-1,0,Namibia,Côte d'Ivoire,1,1,6/5/1999
+1,0,Namibia,Cote d'Ivoire,1,1,6/5/1999
 1,0,Portugal,Slovakia,1,0,6/5/1999
 1,0,Romania,Hungary,2,0,6/5/1999
 1,0,South Africa,Mauritius,2,0,6/5/1999
@@ -1039,9 +1039,9 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Republic of Ireland,FYR Macedonia,1,0,6/9/1999
 1,0,Romania,Azerbaijan,4,0,6/9/1999
 1,0,Russia,Iceland,1,0,6/9/1999
-0,0,Serbia,Malta,4,1,6/9/1999
 1,0,Switzerland,Italy,0,0,6/9/1999
 0,0,Wales,Denmark,0,2,6/9/1999
+0,0,Serbia,Malta,4,1,6/9/1999
 0,1,Mexico,Argentina,2,2,6/9/1999
 0,0,Cuba,Jamaica,2,0,6/10/1999
 1,0,Trinidad and Tobago,Haiti,6,1,6/11/1999
@@ -1066,7 +1066,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,South Africa,2,2,6/20/1999
 1,0,Congo,Namibia,3,0,6/20/1999
 1,0,Congo DR,Zambia,0,1,6/20/1999
-1,0,Côte d'Ivoire,Mali,0,0,6/20/1999
+1,0,Cote d'Ivoire,Mali,0,0,6/20/1999
 1,0,Guinea,Togo,2,1,6/20/1999
 1,0,Liberia,Tunisia,2,0,6/20/1999
 1,0,Madagascar,Kenya,1,1,6/20/1999
@@ -1199,8 +1199,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Zimbabwe,Eritrea,4,0,8/15/1999
 1,1,Lesotho,Swaziland,0,3,8/15/1999
 1,1,Greece,Mexico,3,2,8/16/1999
-0,0,Serbia,Croatia,0,0,8/18/1999
 1,0,Slovenia,Albania,2,0,8/18/1999
+0,0,Serbia,Croatia,0,0,8/18/1999
 1,1,Belarus,Russia,0,2,8/18/1999
 1,1,Belgium,Finland,3,4,8/18/1999
 1,1,Cyprus,Romania,2,2,8/18/1999
@@ -1363,7 +1363,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Mexico,Ecuador,0,0,10/27/1999
 1,0,Cambodia,Indonesia,1,5,10/30/1999
 1,1,Congo DR,Congo,1,1,10/30/1999
-1,1,Côte d'Ivoire,Gabon,0,1,10/30/1999
+1,1,Cote d'Ivoire,Gabon,0,1,10/30/1999
 0,1,Estonia,Iraq,1,1,10/30/1999
 1,1,United Arab Emirates,Turkmenistan,1,3,10/30/1999
 1,1,Tunisia,Zambia,2,1,10/31/1999
@@ -1417,7 +1417,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Libya,Togo,2,1,11/19/1999
 1,0,Indonesia,Cambodia,9,2,11/20/1999
 1,1,Colombia,Slovakia,1,0,11/20/1999
-1,1,Senegal,Côte d'Ivoire,3,0,11/20/1999
+1,1,Senegal,Cote d'Ivoire,3,0,11/20/1999
 0,0,Bangladesh,Uzbekistan,0,6,11/21/1999
 1,0,United Arab Emirates,India,3,1,11/21/1999
 1,1,Gabon,Nigeria,0,2,11/21/1999
@@ -1461,7 +1461,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Togo,Gabon,2,3,12/27/1999
 0,1,Malaysia,Singapore,1,0,12/28/1999
 1,1,Costa Rica,Honduras,1,1,12/29/1999
-1,1,Côte d'Ivoire,Burkina Faso,3,1,12/29/1999
+1,1,Cote d'Ivoire,Burkina Faso,3,1,12/29/1999
 1,1,Libya,Togo,2,0,12/29/1999
 1,1,Egypt,Togo,2,1,1/4/2000
 1,1,Egypt,Gabon,4,0,1/5/2000
@@ -1470,7 +1470,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Trinidad and Tobago,Canada,0,0,1/8/2000
 0,1,Armenia,Guatemala,1,1,1/9/2000
 1,1,Burkina Faso,Gabon,1,1,1/9/2000
-1,1,Côte d'Ivoire,Egypt,2,0,1/9/2000
+1,1,Cote d'Ivoire,Egypt,2,0,1/9/2000
 0,1,Mexico,Iran,2,1,1/9/2000
 1,1,Bermuda,Canada,0,2,1/11/2000
 1,1,Burkina Faso,Cameroon,2,2,1/11/2000
@@ -1492,7 +1492,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Vietnam,Guam,11,0,1/23/2000
 1,1,New Zealand,Korea Republic,0,0,1/23/2000
 0,0,Algeria,Congo DR,0,0,1/24/2000
-0,0,Côte d'Ivoire,Togo,1,1,1/24/2000
+0,0,Cote d'Ivoire,Togo,1,1,1/24/2000
 1,1,Qatar,Bosnia-Herzegovina,2,0,1/24/2000
 0,0,Burkina Faso,Senegal,1,3,1/25/2000
 0,0,Morocco,Congo,1,0,1/25/2000
@@ -1504,7 +1504,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Uganda,Libya,3,2,1/26/2000
 1,0,Ghana,Togo,2,0,1/27/2000
 0,0,South Africa,Congo DR,1,0,1/27/2000
-0,0,Cameroon,Côte d'Ivoire,3,0,1/28/2000
+0,0,Cameroon,Cote d'Ivoire,3,0,1/28/2000
 0,0,Egypt,Senegal,1,0,1/28/2000
 1,0,Nigeria,Congo,0,0,1/28/2000
 1,1,US Virgin Islands,St. Lucia,0,9,1/28/2000
@@ -1517,7 +1517,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Honduras,Ecuador,1,1,1/29/2000
 1,1,US Virgin Islands,St. Lucia,0,2,1/30/2000
 0,0,Cameroon,Togo,0,1,1/31/2000
-1,0,Ghana,Côte d'Ivoire,0,2,1/31/2000
+1,0,Ghana,Cote d'Ivoire,0,2,1/31/2000
 0,1,Faroe Islands,Finland,0,1,1/31/2000
 1,1,Kuwait,Syria,4,0,1/31/2000
 0,1,Norway,Iceland,0,0,1/31/2000
@@ -1674,8 +1674,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Japan,China PR,0,0,3/15/2000
 1,1,Jordan,Bosnia-Herzegovina,1,2,3/15/2000
 1,1,Venezuela,Bolivia,0,0,3/16/2000
-0,0,Curacao,Trinidad and Tobago,1,1,3/18/2000
 1,0,Grenada,Barbados,2,3,3/18/2000
+0,0,Curacao,Trinidad and Tobago,1,1,3/18/2000
 0,0,Puerto Rico,Aruba,2,2,3/18/2000
 1,0,St. Kitts and Nevis,Turks and Caicos Islands,8,0,3/18/2000
 1,0,Bahamas,Anguilla,2,1,3/19/2000
@@ -1698,8 +1698,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Malaysia,Chinese Taipei,3,0,3/25/2000
 0,0,Thailand,Korea DPR,0,0,3/25/2000
 1,1,Bahrain,Jordan,1,1,3/25/2000
-0,1,Serbia,China PR,1,0,3/25/2000
 1,1,Tanzania,Malawi,1,1,3/25/2000
+0,1,Serbia,China PR,1,0,3/25/2000
 1,1,Zambia,Botswana,3,0,3/25/2000
 1,1,Tanzania,Malawi,4,3,3/26/2000
 0,0,Chinese Taipei,Thailand,0,2,3/27/2000
@@ -1786,7 +1786,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Laos,Mongolia,2,1,4/9/2000
 1,0,Lesotho,South Africa,0,2,4/9/2000
 1,0,Libya,Mali,3,0,4/9/2000
-1,0,Rwanda,Côte d'Ivoire,2,2,4/9/2000
+1,0,Rwanda,Cote d'Ivoire,2,2,4/9/2000
 1,0,Sudan,Mozambique,1,0,4/9/2000
 1,0,Swaziland,Angola,0,1,4/9/2000
 0,0,Syria,Maldives,2,1,4/9/2000
@@ -1829,7 +1829,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Cameroon,Somalia,3,0,4/23/2000
 1,0,Congo,Equatorial Guinea,2,1,4/23/2000
 1,0,Congo DR,Djibouti,9,1,4/23/2000
-1,0,Côte d'Ivoire,Rwanda,2,0,4/23/2000
+1,0,Cote d'Ivoire,Rwanda,2,0,4/23/2000
 1,0,Egypt,Mauritius,4,2,4/23/2000
 1,0,Ghana,Tanzania,3,2,4/23/2000
 1,0,Guinea,Uganda,3,0,4/23/2000
@@ -2015,8 +2015,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Portugal,England,3,2,6/12/2000
 1,0,Tahiti,Tonga,8,1,6/12/2000
 1,1,Australia,Paraguay,0,0,6/12/2000
-0,0,Serbia,Slovenia,3,3,6/13/2000
 0,0,Spain,Norway,0,1,6/13/2000
+0,0,Serbia,Slovenia,3,3,6/13/2000
 0,0,American Samoa,Samoa,1,6,6/14/2000
 1,0,Belgium,Italy,2,0,6/14/2000
 1,0,Tahiti,Cook Islands,2,0,6/14/2000
@@ -2038,7 +2038,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Romania,Portugal,0,1,6/17/2000
 1,1,Egypt,Ghana,2,0,6/17/2000
 1,0,Angola,Zambia,2,1,6/18/2000
-1,0,Côte d'Ivoire,Tunisia,2,2,6/18/2000
+1,0,Cote d'Ivoire,Tunisia,2,2,6/18/2000
 1,0,Guatemala,Antigua and Barbuda,8,1,6/18/2000
 1,0,Guinea,Zimbabwe,3,0,6/18/2000
 1,0,Libya,Cameroon,0,3,6/18/2000
@@ -2057,9 +2057,9 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Denmark,Czech Republic,0,2,6/21/2000
 1,0,Netherlands,France,2,3,6/21/2000
 0,0,New Zealand,Vanuatu,3,1,6/21/2000
-0,0,Serbia,Spain,3,4,6/21/2000
 0,0,Slovenia,Norway,0,0,6/21/2000
 0,0,Solomon Islands,Cook Islands,5,1,6/21/2000
+0,0,Serbia,Spain,3,4,6/21/2000
 1,1,Paraguay,Costa Rica,1,0,6/21/2000
 1,1,Panama,Venezuela,2,0,6/22/2000
 0,0,Solomon Islands,Australia,0,6,6/23/2000
@@ -2104,7 +2104,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,France,Italy,2,1,7/2/2000
 1,0,Gambia,Guinea,2,2,7/2/2000
 1,0,Lesotho,Mozambique,1,0,7/2/2000
-1,0,Niger,Côte d'Ivoire,0,1,7/2/2000
+1,0,Niger,Cote d'Ivoire,0,1,7/2/2000
 0,0,Rwanda,Congo,2,1,7/2/2000
 1,0,Sao Tome e Principe,Gabon,1,1,7/2/2000
 1,0,Sudan,Eritrea,5,1,7/2/2000
@@ -2135,7 +2135,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Burundi,Djibouti,1,0,7/15/2000
 1,0,Congo,Rwanda,5,1,7/15/2000
 1,0,Congo DR,Central African Republic,2,0,7/15/2000
-1,0,Côte d'Ivoire,Niger,6,0,7/15/2000
+1,0,Cote d'Ivoire,Niger,6,0,7/15/2000
 1,0,Eritrea,Sudan,2,1,7/15/2000
 1,0,Gabon,Sao Tome e Principe,4,1,7/15/2000
 1,0,Kenya,Swaziland,3,0,7/15/2000
@@ -2242,7 +2242,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Bosnia-Herzegovina,Spain,1,2,9/2/2000
 1,0,Bulgaria,Czech Republic,0,1,9/2/2000
 1,0,Chile,Colombia,0,1,9/2/2000
-1,0,Egypt,Côte d'Ivoire,1,0,9/2/2000
+1,0,Egypt,Cote d'Ivoire,1,0,9/2/2000
 1,0,Finland,Albania,2,1,9/2/2000
 1,0,Gabon,Morocco,2,0,9/2/2000
 1,0,Germany,Greece,2,0,9/2/2000
@@ -2472,7 +2472,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Thailand,Indonesia,1,4,11/18/2000
 1,1,Uganda,Ethiopia,2,2,11/18/2000
 0,1,Vietnam,Malaysia,0,3,11/18/2000
-1,0,Côte d'Ivoire,Libya,2,1,11/19/2000
+1,0,Cote d'Ivoire,Libya,2,1,11/19/2000
 0,1,Djibouti,Somalia,0,0,11/19/2000
 0,1,Kenya,Eritrea,0,0,11/20/2000
 1,1,Uganda,Burundi,2,1,11/20/2000
@@ -2534,7 +2534,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Israel,Uzbekistan,2,0,1/17/2001
 0,1,Kuwait,Syria,2,0,1/17/2001
 1,1,Iran,China PR,4,0,1/19/2001
-1,0,Côte d'Ivoire,Sudan,2,0,1/20/2001
+1,0,Cote d'Ivoire,Sudan,2,0,1/20/2001
 1,1,Mali,Guinea,0,1,1/20/2001
 0,1,Egypt,Korea DPR,1,0,1/23/2001
 1,1,Thailand,Kuwait,5,4,1/23/2001
@@ -2556,7 +2556,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Egypt,Morocco,0,0,1/28/2001
 1,0,Ghana,Liberia,1,3,1/28/2001
 1,0,Guinea,Malawi,1,1,1/28/2001
-1,0,Madagascar,Côte d'Ivoire,1,3,1/28/2001
+1,0,Madagascar,Cote d'Ivoire,1,3,1/28/2001
 1,0,Togo,Cameroon,0,2,1/28/2001
 1,1,Botswana,Lesotho,2,1,1/28/2001
 1,1,Jamaica,Bulgaria,0,0,1/28/2001
@@ -2676,7 +2676,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Mexico,Brazil,3,3,3/7/2001
 1,0,Hong Kong,Malaysia,2,0,3/8/2001
 0,0,Palestine,Qatar,1,2,3/8/2001
-1,0,Congo DR,Côte d'Ivoire,1,2,3/10/2001
+1,0,Congo DR,Cote d'Ivoire,1,2,3/10/2001
 1,0,Senegal,Namibia,4,0,3/10/2001
 1,0,Sierra Leone,Sudan,0,2,3/10/2001
 1,0,Zambia,Libya,2,0,3/10/2001
@@ -2731,12 +2731,12 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Russia,Slovenia,1,1,3/24/2001
 1,0,Scotland,Belgium,2,2,3/24/2001
 1,0,Senegal,Uganda,3,0,3/24/2001
-0,0,Serbia,Switzerland,1,1,3/24/2001
 1,0,South Africa,Mauritius,3,0,3/24/2001
 1,0,Spain,Liechtenstein,5,0,3/24/2001
 1,0,Sweden,FYR Macedonia,1,0,3/24/2001
 1,0,Turkey,Slovakia,1,1,3/24/2001
 1,0,Ukraine,Belarus,0,0,3/24/2001
+0,0,Serbia,Switzerland,1,1,3/24/2001
 1,0,Zambia,Nigeria,1,1,3/24/2001
 1,1,British Virgin Islands,US Virgin Islands,2,0,3/24/2001
 1,1,France,Japan,5,0,3/24/2001
@@ -2748,7 +2748,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Malaysia,Palestine,4,3,3/25/2001
 1,0,Mexico,Jamaica,4,0,3/25/2001
 1,0,Qatar,Hong Kong,0,3,3/25/2001
-1,0,Sudan,Côte d'Ivoire,0,0,3/25/2001
+1,0,Sudan,Cote d'Ivoire,0,0,3/25/2001
 1,1,Guyana,Barbados,2,2,3/25/2001
 1,0,Colombia,Bolivia,2,0,3/27/2001
 1,0,Peru,Chile,3,1,3/27/2001
@@ -2843,7 +2843,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Cameroon,Libya,1,0,4/22/2001
 1,0,China PR,Maldives,10,1,4/22/2001
 1,0,Congo DR,Madagascar,1,0,4/22/2001
-1,0,Côte d'Ivoire,Congo,2,0,4/22/2001
+1,0,Cote d'Ivoire,Congo,2,0,4/22/2001
 1,0,Indonesia,Cambodia,6,0,4/22/2001
 1,0,Liberia,Sudan,2,0,4/22/2001
 1,1,Mozambique,Lesotho,1,0,4/22/2001
@@ -2870,10 +2870,10 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Malta,Iceland,1,4,4/25/2001
 1,0,Netherlands,Cyprus,4,0,4/25/2001
 1,0,Republic of Ireland,Andorra,3,1,4/25/2001
-0,0,Serbia,Russia,0,1,4/25/2001
 1,0,Trinidad and Tobago,Mexico,1,1,4/25/2001
 1,0,USA,Costa Rica,1,0,4/25/2001
 1,0,Uzbekistan,Turkmenistan,1,0,4/25/2001
+0,0,Serbia,Russia,0,1,4/25/2001
 1,1,Croatia,Greece,2,2,4/25/2001
 1,1,Czech Republic,Belgium,1,1,4/25/2001
 1,1,Denmark,Slovenia,3,0,4/25/2001
@@ -2953,7 +2953,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Cuba,Haiti,0,0,5/20/2001
 1,0,India,Brunei Darussalam,5,0,5/20/2001
 0,0,St. Kitts and Nevis,Suriname,4,0,5/20/2001
-1,0,Tunisia,Côte d'Ivoire,1,1,5/20/2001
+1,0,Tunisia,Cote d'Ivoire,1,1,5/20/2001
 1,1,Lesotho,Swaziland,1,0,5/20/2001
 1,0,Trinidad and Tobago,Cuba,2,0,5/22/2001
 1,1,Singapore,New Zealand,3,0,5/22/2001
@@ -2991,7 +2991,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Egypt,Sudan,3,2,6/1/2001
 0,0,El Salvador,Panama,1,1,6/1/2001
 1,0,Korea Republic,Mexico,2,1,6/1/2001
-1,0,Libya,Côte d'Ivoire,1,3,6/1/2001
+1,0,Libya,Cote d'Ivoire,1,3,6/1/2001
 1,0,Armenia,Belarus,0,0,6/2/2001
 1,0,Belgium,Latvia,3,1,6/2/2001
 0,0,Canada,Brazil,0,0,6/2/2001
@@ -3089,7 +3089,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Burundi,2,1,6/17/2001
 1,0,Burkina Faso,Algeria,1,0,6/17/2001
 1,0,Congo DR,Zimbabwe,2,1,6/17/2001
-1,0,Côte d'Ivoire,Egypt,2,2,6/17/2001
+1,0,Cote d'Ivoire,Egypt,2,2,6/17/2001
 1,0,Mauritius,Liberia,0,2,6/17/2001
 1,0,South Africa,Congo,0,0,6/17/2001
 1,0,Sudan,Libya,1,0,6/17/2001
@@ -3114,7 +3114,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Uzbekistan,Bosnia-Herzegovina,2,1,6/30/2001
 1,0,Burkina Faso,South Africa,1,1,7/1/2001
 1,0,Cameroon,Togo,2,0,7/1/2001
-1,0,Côte d'Ivoire,Madagascar,6,0,7/1/2001
+1,0,Cote d'Ivoire,Madagascar,6,0,7/1/2001
 1,0,Honduras,Costa Rica,2,3,7/1/2001
 1,0,Liberia,Ghana,1,2,7/1/2001
 1,0,Mexico,USA,1,0,7/1/2001
@@ -3145,7 +3145,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,South Africa,Malawi,2,0,7/14/2001
 1,0,Zambia,Cameroon,2,2,7/14/2001
 0,0,Brazil,Peru,2,0,7/15/2001
-1,0,Congo,Côte d'Ivoire,1,1,7/15/2001
+1,0,Congo,Cote d'Ivoire,1,1,7/15/2001
 1,0,Congo DR,Tunisia,0,3,7/15/2001
 1,0,Ghana,Sudan,1,0,7/15/2001
 0,0,Paraguay,Mexico,0,0,7/15/2001
@@ -3176,7 +3176,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Malawi,Zimbabwe,0,1,7/28/2001
 1,0,Angola,Togo,1,1,7/29/2001
 1,0,Colombia,Mexico,0,1,7/29/2001
-1,0,Côte d'Ivoire,Congo DR,1,2,7/29/2001
+1,0,Cote d'Ivoire,Congo DR,1,2,7/29/2001
 1,0,Madagascar,Congo,1,0,7/29/2001
 1,0,Nigeria,Ghana,3,0,7/29/2001
 1,0,Panama,Cuba,0,0,7/29/2001
@@ -3294,10 +3294,10 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Norway,Wales,3,2,9/5/2001
 1,0,Paraguay,Bolivia,5,1,9/5/2001
 1,0,San Marino,Croatia,0,4,9/5/2001
-0,0,Serbia,Slovenia,1,1,9/5/2001
 1,0,Slovakia,Moldova,4,2,9/5/2001
 1,0,Turkey,Sweden,1,2,9/5/2001
 1,0,Ukraine,Armenia,3,0,9/5/2001
+0,0,Serbia,Slovenia,1,1,9/5/2001
 1,1,Italy,Morocco,1,0,9/5/2001
 1,0,Bahrain,Thailand,1,1,9/6/2001
 1,0,Iraq,Iran,1,2,9/7/2001
@@ -3344,10 +3344,10 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Romania,Georgia,1,1,10/6/2001
 1,0,Russia,Switzerland,4,0,10/6/2001
 1,0,Scotland,Latvia,2,1,10/6/2001
-0,0,Serbia,Luxembourg,6,2,10/6/2001
 1,0,Slovenia,Faroe Islands,3,0,10/6/2001
 1,0,Venezuela,Peru,3,0,10/6/2001
 1,0,Wales,Belarus,1,0,10/6/2001
+0,0,Serbia,Luxembourg,6,2,10/6/2001
 1,1,France,Algeria,4,1,10/6/2001
 1,0,Bosnia-Herzegovina,Liechtenstein,5,0,10/7/2001
 1,0,Brazil,Chile,2,0,10/7/2001
@@ -3435,7 +3435,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Tunisia,Togo,1,0,11/28/2001
 1,1,Oman,Kuwait,1,1,11/29/2001
 1,1,Algeria,Ghana,1,1,12/5/2001
-1,1,Mali,Côte d'Ivoire,0,3,12/5/2001
+1,1,Mali,Cote d'Ivoire,0,3,12/5/2001
 1,1,Rwanda,Somalia,3,0,12/8/2001
 0,1,Burundi,Tanzania,1,2,12/9/2001
 1,1,Korea Republic,USA,1,0,12/9/2001
@@ -3493,7 +3493,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Grenada,Trinidad and Tobago,2,3,1/11/2002
 0,1,Oman,Iraq,0,2,1/11/2002
 1,1,Tunisia,Cameroon,0,1,1/11/2002
-1,1,Côte d'Ivoire,Nigeria,1,1,1/12/2002
+1,1,Cote d'Ivoire,Nigeria,1,1,1/12/2002
 1,1,Ecuador,Guatemala,1,0,1/12/2002
 1,1,Morocco,Guinea,2,1,1/13/2002
 1,1,Qatar,Iraq,1,3,1/13/2002
@@ -3518,7 +3518,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Saudi Arabia,Bahrain,3,1,1/20/2002
 0,1,United Arab Emirates,Qatar,0,2,1/20/2002
 0,0,Algeria,Nigeria,0,1,1/21/2002
-0,0,Côte d'Ivoire,Togo,0,0,1/21/2002
+0,0,Cote d'Ivoire,Togo,0,0,1/21/2002
 0,0,Ghana,Morocco,0,0,1/21/2002
 0,0,Mexico,Guatemala,3,1,1/21/2002
 0,0,Tunisia,Zambia,0,0,1/21/2002
@@ -3531,7 +3531,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Saudi Arabia,United Arab Emirates,1,0,1/23/2002
 0,0,Ghana,South Africa,0,0,1/24/2002
 1,0,Mali,Nigeria,0,0,1/24/2002
-0,0,Cameroon,Côte d'Ivoire,1,0,1/25/2002
+0,0,Cameroon,Cote d'Ivoire,1,0,1/25/2002
 0,0,Egypt,Tunisia,1,0,1/25/2002
 0,0,Liberia,Algeria,2,2,1/25/2002
 0,1,Kuwait,Qatar,0,1,1/25/2002
@@ -3548,7 +3548,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Bahrain,Oman,1,1,1/28/2002
 0,1,United Arab Emirates,Kuwait,1,2,1/28/2002
 0,0,Cameroon,Togo,3,0,1/29/2002
-0,0,Congo DR,Côte d'Ivoire,3,1,1/29/2002
+0,0,Congo DR,Cote d'Ivoire,3,1,1/29/2002
 1,1,Saudi Arabia,Qatar,3,1,1/29/2002
 0,0,Burkina Faso,Ghana,1,2,1/30/2002
 0,0,Costa Rica,Korea Republic,3,1,1/30/2002
@@ -3697,11 +3697,11 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Portugal,Brazil,1,1,4/17/2002
 1,1,Republic of Ireland,USA,2,1,4/17/2002
 1,1,Scotland,Nigeria,1,2,4/17/2002
-0,1,Serbia,Lithuania,4,1,4/17/2002
 1,1,Slovenia,Tunisia,1,0,4/17/2002
 0,1,South Africa,Ecuador,0,0,4/17/2002
 0,1,Turkey,Chile,2,0,4/17/2002
 1,1,Ukraine,Georgia,2,1,4/17/2002
+0,1,Serbia,Lithuania,4,1,4/17/2002
 1,1,Korea Republic,Costa Rica,2,0,4/20/2002
 1,1,Swaziland,Namibia,2,1,4/21/2002
 1,1,Korea Republic,China PR,0,0,4/27/2002
@@ -3976,7 +3976,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Nigeria,0,0,9/8/2002
 1,0,Benin,Tanzania,4,0,9/8/2002
 1,0,Congo,Burkina Faso,0,0,9/8/2002
-1,0,Côte d'Ivoire,South Africa,0,0,9/8/2002
+1,0,Cote d'Ivoire,South Africa,0,0,9/8/2002
 1,0,Equatorial Guinea,Sierra Leone,1,3,9/8/2002
 1,0,Guinea,Liberia,3,0,9/8/2002
 1,0,Lesotho,Senegal,0,1,9/8/2002
@@ -4088,8 +4088,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Haiti,Antigua and Barbuda,0,1,11/18/2002
 1,1,South Africa,Senegal,1,1,11/19/2002
 1,0,Azerbaijan,Wales,0,2,11/20/2002
-0,0,Curacao,Antigua and Barbuda,1,1,11/20/2002
 1,0,Cyprus,Malta,2,1,11/20/2002
+0,0,Curacao,Antigua and Barbuda,1,1,11/20/2002
 1,0,San Marino,Latvia,0,1,11/20/2002
 1,1,Austria,Norway,0,1,11/20/2002
 1,1,Czech Republic,Sweden,3,3,11/20/2002
@@ -4230,7 +4230,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Ecuador,Estonia,1,0,2/9/2003
 0,0,El Salvador,Costa Rica,0,1,2/11/2003
 0,0,Nicaragua,Honduras,0,2,2/11/2003
-0,1,Cameroon,Côte d'Ivoire,0,3,2/11/2003
+0,1,Cameroon,Cote d'Ivoire,0,3,2/11/2003
 0,0,Serbia,Azerbaijan,2,2,2/12/2003
 0,1,Albania,Vietnam,5,0,2/12/2003
 1,1,Algeria,Belgium,1,3,2/12/2003
@@ -4382,7 +4382,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Portugal,Brazil,2,1,3/29/2003
 1,1,South Africa,Madagascar,2,0,3/29/2003
 1,1,USA,Venezuela,2,0,3/29/2003
-1,0,Burundi,Côte d'Ivoire,0,1,3/30/2003
+1,0,Burundi,Cote d'Ivoire,0,1,3/30/2003
 1,0,Chad,Namibia,2,0,3/30/2003
 1,0,Eritrea,Mali,0,2,3/30/2003
 1,0,Ethiopia,Liberia,1,0,3/30/2003
@@ -4451,7 +4451,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Liechtenstein,Saudi Arabia,1,0,4/30/2003
 1,1,Lithuania,Romania,0,1,4/30/2003
 1,1,Mexico,Brazil,0,0,4/30/2003
-1,1,Morocco,Côte d'Ivoire,0,1,4/30/2003
+1,1,Morocco,Cote d'Ivoire,0,1,4/30/2003
 1,1,Netherlands,Portugal,1,1,4/30/2003
 1,1,Peru,Paraguay,0,1,4/30/2003
 1,1,Republic of Ireland,Norway,1,0,4/30/2003
@@ -4525,7 +4525,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Benin,Sudan,3,0,6/8/2003
 1,0,Central African Republic,Congo,0,0,6/8/2003
 1,0,Congo DR,Swaziland,2,0,6/8/2003
-1,0,Côte d'Ivoire,Burundi,6,1,6/8/2003
+1,0,Cote d'Ivoire,Burundi,6,1,6/8/2003
 1,0,Egypt,Mauritius,7,0,6/8/2003
 1,0,Equatorial Guinea,Gabon,2,1,6/8/2003
 1,0,Liberia,Ethiopia,1,0,6/8/2003
@@ -4591,7 +4591,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mali,Zimbabwe,0,0,6/22/2003
 1,0,Mozambique,Central African Republic,1,0,6/22/2003
 1,0,Sierra Leone,Equatorial Guinea,2,0,6/22/2003
-1,0,South Africa,Côte d'Ivoire,2,1,6/22/2003
+1,0,South Africa,Cote d'Ivoire,2,1,6/22/2003
 1,0,Swaziland,Botswana,3,2,6/22/2003
 1,0,Tanzania,Benin,0,1,6/22/2003
 1,0,Togo,Kenya,2,0,6/22/2003
@@ -4781,7 +4781,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Morocco,Trinidad and Tobago,2,0,9/10/2003
 1,1,Norway,Portugal,0,1,9/10/2003
 1,1,Oman,Bahrain,1,0,9/10/2003
-1,1,Tunisia,Côte d'Ivoire,3,2,9/10/2003
+1,1,Tunisia,Cote d'Ivoire,3,2,9/10/2003
 1,0,Kuwait,Qatar,2,1,9/14/2003
 1,1,Rwanda,Kenya,0,1,9/14/2003
 1,1,Singapore,Oman,1,3,9/16/2003
@@ -4948,7 +4948,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Germany,France,0,3,11/15/2003
 1,1,Morocco,Burkina Faso,1,0,11/15/2003
 1,1,Portugal,Greece,1,1,11/15/2003
-1,1,Senegal,Côte d'Ivoire,1,0,11/15/2003
+1,1,Senegal,Cote d'Ivoire,1,0,11/15/2003
 1,0,Angola,Chad,2,0,11/16/2003
 1,0,Benin,Madagascar,3,2,11/16/2003
 1,0,Cape Verde Islands,Swaziland,3,0,11/16/2003
@@ -5296,7 +5296,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Slovenia,Latvia,0,1,3/31/2004
 1,1,Spain,Denmark,2,0,3/31/2004
 1,1,Sweden,England,1,0,3/31/2004
-1,1,Tunisia,Côte d'Ivoire,0,2,3/31/2004
+1,1,Tunisia,Cote d'Ivoire,0,2,3/31/2004
 1,1,Bermuda,Nicaragua,2,1,4/2/2004
 1,1,Vanuatu,Solomon Islands,1,2,4/3/2004
 1,1,Vanuatu,Solomon Islands,1,2,4/6/2004
@@ -5316,7 +5316,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Bosnia-Herzegovina,Finland,1,0,4/28/2004
 1,1,Bulgaria,Cameroon,3,0,4/28/2004
 1,1,Chile,Peru,1,1,4/28/2004
-0,1,Côte d'Ivoire,Guinea,4,2,4/28/2004
+0,1,Cote d'Ivoire,Guinea,4,2,4/28/2004
 1,1,Czech Republic,Japan,0,1,4/28/2004
 1,1,Denmark,Scotland,1,0,4/28/2004
 0,1,El Salvador,Colombia,0,2,4/28/2004
@@ -5362,22 +5362,22 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,American Samoa,Vanuatu,1,9,5/12/2004
 0,0,Fiji,Papua New Guinea,4,2,5/12/2004
 1,0,Solomon Islands,Cook Islands,5,0,5/12/2004
-0,0,Tahiti,New Caledonia,0,0,5/12/2004
 0,1,El Salvador,Haiti,3,3,5/12/2004
+0,0,Tahiti,New Caledonia,0,0,5/12/2004
 0,0,Fiji,American Samoa,11,0,5/15/2004
 1,0,Samoa,Vanuatu,0,3,5/15/2004
-1,0,Solomon Islands,New Caledonia,2,0,5/15/2004
 0,0,Tonga,Cook Islands,2,1,5/15/2004
+1,0,Solomon Islands,New Caledonia,2,0,5/15/2004
 1,1,Zimbabwe,Zambia,0,0,5/16/2004
 0,0,American Samoa,Papua New Guinea,0,1,5/17/2004
-0,0,New Caledonia,Cook Islands,8,0,5/17/2004
 1,0,Samoa,Fiji,0,4,5/17/2004
 0,0,Tahiti,Tonga,2,0,5/17/2004
+0,0,New Caledonia,Cook Islands,8,0,5/17/2004
 0,0,Fiji,Vanuatu,0,3,5/19/2004
-0,0,New Caledonia,Tonga,8,0,5/19/2004
 1,0,Samoa,Papua New Guinea,1,4,5/19/2004
 1,0,Solomon Islands,Tahiti,1,1,5/19/2004
 1,1,Cyprus,Jordan,0,0,5/19/2004
+0,0,New Caledonia,Tonga,8,0,5/19/2004
 1,1,Benin,Togo,0,1,5/20/2004
 1,1,Cuba,Grenada,2,2,5/20/2004
 1,1,France,Brazil,0,0,5/20/2004
@@ -5481,7 +5481,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Cameroon,Benin,2,1,6/6/2004
 1,0,Chile,Brazil,1,1,6/6/2004
 1,0,Colombia,Uruguay,5,0,6/6/2004
-1,0,Côte d'Ivoire,Libya,2,0,6/6/2004
+1,0,Cote d'Ivoire,Libya,2,0,6/6/2004
 0,0,Fiji,New Zealand,0,2,6/6/2004
 1,0,Liberia,Mali,1,0,6/6/2004
 1,0,Peru,Venezuela,0,0,6/6/2004
@@ -5561,7 +5561,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Congo,Liberia,3,0,6/20/2004
 1,0,Congo DR,Burkina Faso,3,2,6/20/2004
 1,0,Costa Rica,Cuba,1,1,6/20/2004
-1,0,Egypt,Côte d'Ivoire,1,2,6/20/2004
+1,0,Egypt,Cote d'Ivoire,1,2,6/20/2004
 1,0,Ghana,South Africa,3,0,6/20/2004
 1,0,Grenada,USA,2,3,6/20/2004
 1,0,Guatemala,Suriname,3,1,6/20/2004
@@ -5609,7 +5609,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Uganda,Ghana,1,1,7/3/2004
 1,1,China PR,Lebanon,6,0,7/3/2004
 1,0,Benin,Egypt,3,3,7/4/2004
-1,0,Cameroon,Côte d'Ivoire,2,0,7/4/2004
+1,0,Cameroon,Cote d'Ivoire,2,0,7/4/2004
 1,0,Congo,Mali,1,0,7/4/2004
 1,0,Liberia,Togo,0,0,7/4/2004
 1,0,Portugal,Greece,0,1,7/4/2004
@@ -5724,7 +5724,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Republic of Ireland,Bulgaria,1,1,8/18/2004
 1,1,Russia,Lithuania,4,3,8/18/2004
 1,1,Scotland,Hungary,0,3,8/18/2004
-0,1,Senegal,Côte d'Ivoire,1,2,8/18/2004
+0,1,Senegal,Cote d'Ivoire,1,2,8/18/2004
 1,1,Slovenia,Serbia,1,1,8/18/2004
 1,1,Spain,Venezuela,3,2,8/18/2004
 1,1,Sweden,Netherlands,2,2,8/18/2004
@@ -5785,7 +5785,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Brazil,Bolivia,3,1,9/5/2004
 1,0,Chile,Colombia,0,0,9/5/2004
 1,0,Congo DR,South Africa,1,0,9/5/2004
-1,0,Côte d'Ivoire,Sudan,5,0,9/5/2004
+1,0,Cote d'Ivoire,Sudan,5,0,9/5/2004
 1,0,Egypt,Cameroon,3,2,9/5/2004
 1,0,Ghana,Cape Verde Islands,2,0,9/5/2004
 1,0,Guatemala,Costa Rica,2,1,9/5/2004
@@ -5896,7 +5896,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Venezuela,Brazil,2,5,10/9/2004
 1,1,Iran,Germany,0,2,10/9/2004
 1,0,Angola,Zimbabwe,1,0,10/10/2004
-1,0,Benin,Côte d'Ivoire,0,1,10/10/2004
+1,0,Benin,Cote d'Ivoire,0,1,10/10/2004
 1,0,Congo,Zambia,2,3,10/10/2004
 1,0,Ecuador,Chile,2,0,10/10/2004
 1,0,Ghana,Congo DR,0,0,10/10/2004
@@ -6173,7 +6173,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Barbados,Antigua and Barbuda,3,2,2/6/2005
 1,1,Trinidad and Tobago,Haiti,0,1,2/6/2005
 0,1,Chad,Equatorial Guinea,0,0,2/8/2005
-0,1,Côte d'Ivoire,Congo DR,2,2,2/8/2005
+0,1,Cote d'Ivoire,Congo DR,2,2,2/8/2005
 1,1,Cyprus,Austria,1,1,2/8/2005
 0,1,Finland,Latvia,2,1,2/8/2005
 1,1,Gabon,Congo,0,1,2/8/2005
@@ -6313,7 +6313,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Brazil,Peru,1,0,3/27/2005
 1,0,Cameroon,Sudan,2,1,3/27/2005
 1,0,Congo DR,Ghana,1,1,3/27/2005
-1,0,Côte d'Ivoire,Benin,3,0,3/27/2005
+1,0,Cote d'Ivoire,Benin,3,0,3/27/2005
 1,0,Ecuador,Paraguay,5,2,3/27/2005
 1,0,Egypt,Libya,4,1,3/27/2005
 1,0,Mali,Togo,1,2,3/27/2005
@@ -6387,7 +6387,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Finland,Denmark,0,1,6/2/2005
 1,0,Bahrain,Japan,0,1,6/3/2005
 1,0,Iran,Korea DPR,1,0,6/3/2005
-1,0,Libya,Côte d'Ivoire,0,0,6/3/2005
+1,0,Libya,Cote d'Ivoire,0,0,6/3/2005
 1,0,Saudi Arabia,Kuwait,3,0,6/3/2005
 1,0,Uzbekistan,Korea Republic,1,1,6/3/2005
 1,0,Albania,Georgia,3,2,6/4/2005
@@ -6494,7 +6494,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Pakistan,India,3,0,6/18/2005
 1,0,Algeria,Zimbabwe,2,2,6/19/2005
 1,0,Cameroon,Libya,1,0,6/19/2005
-1,0,Côte d'Ivoire,Egypt,2,0,6/19/2005
+1,0,Cote d'Ivoire,Egypt,2,0,6/19/2005
 0,0,Greece,Japan,0,1,6/19/2005
 1,0,Liberia,Congo,0,2,6/19/2005
 0,0,Mexico,Brazil,1,0,6/19/2005
@@ -6584,7 +6584,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Denmark,England,4,1,8/17/2005
 1,1,Ecuador,Venezuela,3,1,8/17/2005
 1,1,Estonia,Bosnia-Herzegovina,1,0,8/17/2005
-1,1,France,Côte d'Ivoire,3,0,8/17/2005
+1,1,France,Cote d'Ivoire,3,0,8/17/2005
 1,1,Hungary,Argentina,1,2,8/17/2005
 1,1,Iceland,South Africa,4,1,8/17/2005
 1,1,Jordan,Armenia,0,0,8/17/2005
@@ -6647,7 +6647,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Gabon,3,0,9/4/2005
 1,0,Brazil,Chile,5,0,9/4/2005
 1,0,Congo DR,Cape Verde Islands,2,1,9/4/2005
-1,0,Côte d'Ivoire,Cameroon,2,3,9/4/2005
+1,0,Cote d'Ivoire,Cameroon,2,3,9/4/2005
 1,0,Egypt,Benin,4,1,9/4/2005
 1,0,Ghana,Uganda,2,0,9/4/2005
 1,0,Guinea,Malawi,3,1,9/4/2005
@@ -6727,7 +6727,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Senegal,Mali,3,0,10/8/2005
 1,0,Slovakia,Estonia,1,0,10/8/2005
 1,0,South Africa,Congo DR,2,2,10/8/2005
-1,0,Sudan,Côte d'Ivoire,1,3,10/8/2005
+1,0,Sudan,Cote d'Ivoire,1,3,10/8/2005
 1,0,Switzerland,France,1,1,10/8/2005
 1,0,Tunisia,Morocco,2,2,10/8/2005
 1,0,Uganda,Burkina Faso,2,2,10/8/2005
@@ -6800,7 +6800,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Liechtenstein,FYR Macedonia,1,2,11/12/2005
 1,1,Netherlands,Italy,1,3,11/12/2005
 1,1,Portugal,Croatia,2,0,11/12/2005
-0,1,Romania,Côte d'Ivoire,1,2,11/12/2005
+0,1,Romania,Cote d'Ivoire,1,2,11/12/2005
 1,1,Scotland,USA,1,1,11/12/2005
 1,1,South Africa,Senegal,2,3,11/12/2005
 1,1,United Arab Emirates,Brazil,0,8,11/12/2005
@@ -6815,7 +6815,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Czech Republic,Norway,1,0,11/16/2005
 1,0,Slovakia,Spain,1,1,11/16/2005
 1,0,Turkey,Switzerland,4,2,11/16/2005
-0,1,Côte d'Ivoire,Italy,1,1,11/16/2005
+0,1,Cote d'Ivoire,Italy,1,1,11/16/2005
 1,1,Cyprus,Wales,1,0,11/16/2005
 1,1,Egypt,Tunisia,1,2,11/16/2005
 1,1,Georgia,Jordan,3,2,11/16/2005
@@ -6897,7 +6897,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Morocco,Zimbabwe,1,0,1/14/2006
 1,1,Senegal,Congo DR,0,0,1/14/2006
 1,1,Tunisia,Ghana,2,0,1/15/2006
-1,1,Côte d'Ivoire,Jordan,2,0,1/17/2006
+1,1,Cote d'Ivoire,Jordan,2,0,1/17/2006
 0,1,Morocco,Angola,2,2,1/17/2006
 1,0,Saudi Arabia,Sweden,1,1,1/18/2006
 1,1,United Arab Emirates,Korea Republic,1,0,1/18/2006
@@ -6905,7 +6905,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Cameroon,Angola,3,1,1/21/2006
 1,0,Togo,Congo DR,0,2,1/21/2006
 1,1,Greece,Korea Republic,1,1,1/21/2006
-0,1,Morocco,Côte d'Ivoire,0,1,1/21/2006
+0,1,Morocco,Cote d'Ivoire,0,1,1/21/2006
 0,1,Saudi Arabia,Finland,1,1,1/21/2006
 1,0,South Africa,Guinea,0,2,1/22/2006
 1,0,Tunisia,Zambia,4,1,1/22/2006
@@ -6914,7 +6914,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Jordan,Sweden,0,0,1/23/2006
 1,1,Zimbabwe,Senegal,0,2,1/23/2006
 1,0,Egypt,Morocco,0,0,1/24/2006
-1,1,Libya,Côte d'Ivoire,1,2,1/24/2006
+1,1,Libya,Cote d'Ivoire,1,2,1/24/2006
 0,0,Angola,Congo DR,0,0,1/25/2006
 0,0,Cameroon,Togo,2,0,1/25/2006
 1,0,Ecuador,Honduras,1,0,1/25/2006
@@ -6927,7 +6927,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Ghana,Senegal,1,0,1/27/2006
 0,0,Nigeria,Zimbabwe,2,0,1/27/2006
 1,1,Saudi Arabia,Lebanon,1,2,1/27/2006
-1,0,Egypt,Côte d'Ivoire,3,1,1/28/2006
+1,0,Egypt,Cote d'Ivoire,3,1,1/28/2006
 0,0,Libya,Morocco,0,0,1/28/2006
 0,0,Angola,Togo,3,2,1/29/2006
 0,0,Cameroon,Congo DR,2,0,1/29/2006
@@ -6945,15 +6945,15 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Egypt,Congo DR,4,1,2/3/2006
 0,0,Guinea,Senegal,2,3,2/3/2006
 1,1,Kuwait,Singapore,2,2,2/3/2006
-0,0,Cameroon,Côte d'Ivoire,1,1,2/4/2006
+0,0,Cameroon,Cote d'Ivoire,1,1,2/4/2006
 0,0,Nigeria,Tunisia,1,1,2/4/2006
 0,1,Oman,Singapore,1,0,2/6/2006
 1,0,Egypt,Senegal,2,1,2/7/2006
-0,0,Nigeria,Côte d'Ivoire,0,1,2/7/2006
+0,0,Nigeria,Cote d'Ivoire,0,1,2/7/2006
 1,1,Kuwait,Jordan,2,1,2/7/2006
 1,1,Syria,Palestine,3,0,2/7/2006
 0,0,Senegal,Nigeria,0,1,2/9/2006
-1,0,Egypt,Côte d'Ivoire,0,0,2/10/2006
+1,0,Egypt,Cote d'Ivoire,0,0,2/10/2006
 1,1,USA,Japan,3,2,2/10/2006
 0,1,Korea Republic,Costa Rica,0,1,2/11/2006
 1,1,China PR,Honduras,0,1,2/12/2006
@@ -7029,7 +7029,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Scotland,Switzerland,1,3,3/1/2006
 1,1,Senegal,Norway,2,1,3/1/2006
 0,1,Slovenia,Romania,0,2,3/1/2006
-1,1,Spain,Côte d'Ivoire,3,2,3/1/2006
+1,1,Spain,Cote d'Ivoire,3,2,3/1/2006
 1,1,Tunisia,Serbia,0,1,3/1/2006
 1,1,Turkey,Czech Republic,2,2,3/1/2006
 0,1,USA,Poland,1,0,3/1/2006
@@ -7131,7 +7131,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Romania,Colombia,0,0,5/27/2006
 1,1,Serbia,Uruguay,1,1,5/27/2006
 1,1,Spain,Russia,0,0,5/27/2006
-1,1,Switzerland,Côte d'Ivoire,1,1,5/27/2006
+1,1,Switzerland,Cote d'Ivoire,1,1,5/27/2006
 0,1,Wales,Trinidad and Tobago,2,1,5/27/2006
 1,1,Croatia,Iran,2,2,5/28/2006
 0,1,FYR Macedonia,Ecuador,2,1,5/28/2006
@@ -7141,7 +7141,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,USA,Latvia,1,0,5/28/2006
 0,1,Jamaica,Ghana,1,4,5/29/2006
 0,1,Argentina,Angola,2,0,5/30/2006
-0,1,Chile,Côte d'Ivoire,1,1,5/30/2006
+0,1,Chile,Cote d'Ivoire,1,1,5/30/2006
 1,1,Czech Republic,Costa Rica,1,0,5/30/2006
 1,1,England,Hungary,3,1,5/30/2006
 1,1,Germany,Japan,2,2,5/30/2006
@@ -7179,7 +7179,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Ghana,Korea Republic,3,1,6/4/2006
 0,1,Japan,Malta,1,0,6/4/2006
 1,1,Netherlands,Australia,1,1,6/4/2006
-0,1,Slovenia,Côte d'Ivoire,0,3,6/4/2006
+0,1,Slovenia,Cote d'Ivoire,0,3,6/4/2006
 0,1,Turkey,FYR Macedonia,0,1,6/4/2006
 1,1,Ukraine,Libya,3,0,6/5/2006
 0,1,Australia,Liechtenstein,3,1,6/7/2006
@@ -7188,7 +7188,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Luxembourg,Ukraine,0,3,6/8/2006
 1,0,Germany,Costa Rica,4,2,6/9/2006
 0,0,Poland,Ecuador,0,2,6/9/2006
-0,0,Argentina,Côte d'Ivoire,2,1,6/10/2006
+0,0,Argentina,Cote d'Ivoire,2,1,6/10/2006
 0,0,England,Paraguay,1,0,6/10/2006
 0,0,Trinidad and Tobago,Sweden,0,0,6/10/2006
 0,0,Angola,Portugal,0,1,6/11/2006
@@ -7208,7 +7208,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Sweden,Paraguay,1,0,6/15/2006
 0,0,Argentina,Serbia,6,0,6/16/2006
 0,0,Mexico,Angola,0,0,6/16/2006
-0,0,Netherlands,Côte d'Ivoire,2,1,6/16/2006
+0,0,Netherlands,Cote d'Ivoire,2,1,6/16/2006
 0,0,Czech Republic,Ghana,0,2,6/17/2006
 0,0,Italy,USA,1,1,6/17/2006
 0,0,Portugal,Iran,2,0,6/17/2006
@@ -7222,7 +7222,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Germany,Ecuador,3,0,6/20/2006
 0,0,Paraguay,Trinidad and Tobago,2,0,6/20/2006
 0,0,Sweden,England,2,2,6/20/2006
-0,0,Côte d'Ivoire,Serbia,3,2,6/21/2006
+0,0,Cote d'Ivoire,Serbia,3,2,6/21/2006
 0,0,Iran,Angola,1,1,6/21/2006
 0,0,Netherlands,Argentina,0,0,6/21/2006
 0,0,Portugal,Mexico,2,1,6/21/2006
@@ -7311,7 +7311,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Bosnia-Herzegovina,France,1,2,8/16/2006
 0,1,Cameroon,Guinea,1,1,8/16/2006
 1,1,Chile,Colombia,1,2,8/16/2006
-0,1,Côte d'Ivoire,Senegal,0,1,8/16/2006
+0,1,Cote d'Ivoire,Senegal,0,1,8/16/2006
 1,1,Czech Republic,Serbia,1,3,8/16/2006
 1,1,Denmark,Poland,2,0,8/16/2006
 1,1,Egypt,Uruguay,0,2,8/16/2006
@@ -7520,7 +7520,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Benin,Sierra Leone,2,0,10/8/2006
 1,0,Burundi,Mauritania,3,1,10/8/2006
 1,0,Congo,Chad,3,1,10/8/2006
-1,0,Côte d'Ivoire,Gabon,5,0,10/8/2006
+1,0,Cote d'Ivoire,Gabon,5,0,10/8/2006
 1,0,Lesotho,Nigeria,0,1,10/8/2006
 1,0,Liberia,Rwanda,3,2,10/8/2006
 1,0,Libya,Congo DR,1,1,10/8/2006
@@ -7613,7 +7613,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Bolivia,El Salvador,5,1,11/15/2006
 1,1,Botswana,Swaziland,1,0,11/15/2006
 1,1,Chile,Paraguay,3,2,11/15/2006
-0,1,Côte d'Ivoire,Sweden,1,0,11/15/2006
+0,1,Cote d'Ivoire,Sweden,1,0,11/15/2006
 1,1,Czech Republic,Denmark,1,1,11/15/2006
 0,1,Egypt,South Africa,1,0,11/15/2006
 1,1,Estonia,Belarus,2,1,11/15/2006
@@ -7755,7 +7755,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Botswana,Namibia,1,0,2/6/2007
 0,1,Brazil,Portugal,0,2,2/6/2007
 0,1,Bulgaria,Latvia,2,0,2/6/2007
-0,1,Côte d'Ivoire,Guinea,1,0,2/6/2007
+0,1,Cote d'Ivoire,Guinea,1,0,2/6/2007
 1,1,Cyprus,Hungary,2,1,2/6/2007
 0,1,Greece,Korea Republic,0,1,2/6/2007
 0,1,Mali,Lithuania,3,1,2/6/2007
@@ -7823,7 +7823,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Gabon,Congo,0,0,3/16/2007
 1,1,Swaziland,Lesotho,0,1,3/18/2007
 1,1,Libya,Mauritania,0,0,3/20/2007
-1,1,Mauritius,Côte d'Ivoire,0,3,3/21/2007
+1,1,Mauritius,Cote d'Ivoire,0,3,3/21/2007
 0,1,Jamaica,Switzerland,0,2,3/22/2007
 1,0,Albania,Slovenia,0,0,3/24/2007
 1,0,Algeria,Cape Verde Islands,2,0,3/24/2007
@@ -7874,7 +7874,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Kenya,Swaziland,2,0,3/25/2007
 1,0,Lesotho,Niger,3,1,3/25/2007
 1,0,Libya,Namibia,2,1,3/25/2007
-1,0,Madagascar,Côte d'Ivoire,0,3,3/25/2007
+1,0,Madagascar,Cote d'Ivoire,0,3,3/25/2007
 1,0,Mali,Benin,1,1,3/25/2007
 1,0,Mauritius,Sudan,1,2,3/25/2007
 1,0,Zimbabwe,Morocco,1,1,3/25/2007
@@ -7998,7 +7998,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,USA,China PR,4,1,6/2/2007
 1,0,Benin,Mali,0,0,6/3/2007
 1,0,Burundi,Botswana,1,0,6/3/2007
-1,0,Côte d'Ivoire,Madagascar,5,0,6/3/2007
+1,0,Cote d'Ivoire,Madagascar,5,0,6/3/2007
 1,0,Guinea,Gambia,2,2,6/3/2007
 1,0,Liberia,Cameroon,1,2,6/3/2007
 1,0,Mauritania,Egypt,1,1,6/3/2007
@@ -8221,7 +8221,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Colombia,Mexico,1,0,8/22/2007
 1,1,Congo DR,Angola,3,1,8/22/2007
 1,1,Costa Rica,Peru,1,1,8/22/2007
-0,1,Côte d'Ivoire,Egypt,0,0,8/22/2007
+0,1,Cote d'Ivoire,Egypt,0,0,8/22/2007
 1,1,Denmark,Republic of Ireland,0,4,8/22/2007
 1,1,Ecuador,Bolivia,1,0,8/22/2007
 1,1,El Salvador,Honduras,2,0,8/22/2007
@@ -8255,41 +8255,41 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Fiji,Tuvalu,15,1,8/25/2007
 1,0,Samoa,Vanuatu,0,4,8/25/2007
 0,0,Solomon Islands,American Samoa,12,1,8/25/2007
-0,0,Tahiti,New Caledonia,0,1,8/25/2007
 0,1,Cambodia,Syria,1,5,8/25/2007
 0,1,Myanmar,Laos,1,0,8/25/2007
+0,0,Tahiti,New Caledonia,0,1,8/25/2007
 1,1,India,Kyrgyzstan,3,0,8/26/2007
 0,0,Fiji,Cook Islands,4,0,8/27/2007
 1,0,Samoa,American Samoa,7,0,8/27/2007
 0,0,Solomon Islands,Tonga,4,0,8/27/2007
 0,0,Tuvalu,New Caledonia,0,1,8/27/2007
 0,0,American Samoa,Vanuatu,0,1,8/29/2007
-0,0,New Caledonia,Cook Islands,3,0,8/29/2007
 1,0,Samoa,Tonga,2,1,8/29/2007
 0,0,Tuvalu,Tahiti,1,1,8/29/2007
 1,1,India,Syria,1,0,8/29/2007
+0,0,New Caledonia,Cook Islands,3,0,8/29/2007
 0,0,Cook Islands,Tuvalu,4,1,9/1/2007
 0,0,Tahiti,Fiji,0,4,9/1/2007
 0,0,Tonga,American Samoa,4,0,9/1/2007
 0,0,Vanuatu,Solomon Islands,0,2,9/1/2007
 1,1,Tanzania,Uganda,1,0,9/1/2007
 0,0,Cook Islands,Tahiti,0,1,9/3/2007
-0,0,New Caledonia,Fiji,1,1,9/3/2007
 1,0,Samoa,Solomon Islands,0,3,9/3/2007
 0,0,Tonga,Vanuatu,1,4,9/3/2007
+0,0,New Caledonia,Fiji,1,1,9/3/2007
 0,0,Fiji,Vanuatu,3,0,9/5/2007
 0,0,Solomon Islands,New Caledonia,2,3,9/5/2007
-0,0,New Caledonia,Fiji,1,0,9/7/2007
 0,0,Solomon Islands,Vanuatu,0,2,9/7/2007
 1,1,Austria,Japan,0,0,9/7/2007
 1,1,Bahrain,Jordan,1,3,9/7/2007
 0,1,Switzerland,Chile,2,1,9/7/2007
+0,0,New Caledonia,Fiji,1,0,9/7/2007
 1,0,Belarus,Romania,1,3,9/8/2007
 1,0,Congo DR,Libya,1,1,9/8/2007
 1,0,Croatia,Estonia,2,0,9/8/2007
 1,0,England,Israel,3,0,9/8/2007
 1,0,Ethiopia,Namibia,2,3,9/8/2007
-1,0,Gabon,Côte d'Ivoire,0,0,9/8/2007
+1,0,Gabon,Cote d'Ivoire,0,0,9/8/2007
 1,0,Georgia,Ukraine,1,1,9/8/2007
 1,0,Hungary,Bosnia-Herzegovina,1,0,9/8/2007
 1,0,Iceland,Spain,1,1,9/8/2007
@@ -8452,7 +8452,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Sweden,Northern Ireland,1,1,10/17/2007
 1,0,Turkey,Greece,0,1,10/17/2007
 1,0,Ukraine,Faroe Islands,5,0,10/17/2007
-1,1,Austria,Côte d'Ivoire,3,2,10/17/2007
+1,1,Austria,Cote d'Ivoire,3,2,10/17/2007
 1,1,Costa Rica,Haiti,1,1,10/17/2007
 1,1,El Salvador,Trinidad and Tobago,0,0,10/17/2007
 1,1,Estonia,Montenegro,0,1,10/17/2007
@@ -8506,7 +8506,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Colombia,Venezuela,1,0,11/17/2007
 1,0,Comoros,Madagascar,0,4,11/17/2007
 1,0,Czech Republic,Slovakia,3,1,11/17/2007
-1,0,Fiji,New Caledonia,3,3,11/17/2007
 1,0,Finland,Azerbaijan,2,1,11/17/2007
 1,0,FYR Macedonia,Croatia,2,0,11/17/2007
 1,0,Germany,Cyprus,4,0,11/17/2007
@@ -8526,13 +8525,14 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Spain,Sweden,3,0,11/17/2007
 1,0,Vanuatu,New Zealand,1,2,11/17/2007
 1,0,Wales,Republic of Ireland,2,2,11/17/2007
-1,1,Angola,Côte d'Ivoire,2,1,11/17/2007
+1,1,Angola,Cote d'Ivoire,2,1,11/17/2007
 0,1,Australia,Nigeria,1,0,11/17/2007
 0,1,Benin,United Arab Emirates,1,0,11/17/2007
 0,1,Guatemala,Honduras,0,1,11/17/2007
 0,1,Senegal,Mali,3,2,11/17/2007
 1,1,South Africa,USA,0,1,11/17/2007
 1,1,Tunisia,Namibia,2,0,11/17/2007
+1,0,Fiji,New Caledonia,3,3,11/17/2007
 1,0,Peru,Brazil,1,1,11/18/2007
 1,0,Syria,Indonesia,7,0,11/18/2007
 1,0,Tajikistan,Singapore,1,1,11/18/2007
@@ -8566,7 +8566,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Israel,FYR Macedonia,1,0,11/21/2007
 1,0,Italy,Faroe Islands,3,1,11/21/2007
 1,0,Malta,Norway,1,4,11/21/2007
-1,0,New Caledonia,Fiji,4,0,11/21/2007
 1,0,New Zealand,Vanuatu,4,1,11/21/2007
 1,0,Portugal,Finland,0,0,11/21/2007
 1,0,Romania,Albania,6,1,11/21/2007
@@ -8585,10 +8584,11 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Morocco,Senegal,3,0,11/21/2007
 1,1,Oman,Kenya,2,2,11/21/2007
 1,1,Panama,Costa Rica,1,1,11/21/2007
-1,1,Qatar,Côte d'Ivoire,1,6,11/21/2007
+1,1,Qatar,Cote d'Ivoire,1,6,11/21/2007
 1,1,Tanzania,Zambia,1,0,11/21/2007
 0,1,United Arab Emirates,Togo,0,5,11/21/2007
 1,1,Uzbekistan,Estonia,0,0,11/21/2007
+1,0,New Caledonia,Fiji,4,0,11/21/2007
 1,1,Oman,Kenya,1,1,11/22/2007
 1,0,Serbia,Kazakhstan,1,0,11/24/2007
 1,1,Egypt,Saudi Arabia,2,1,11/25/2007
@@ -8635,7 +8635,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Qatar,Iran,0,0,1/10/2008
 1,1,United Arab Emirates,China PR,0,0,1/10/2008
 0,1,Guinea,Sudan,6,0,1/11/2008
-1,1,Kuwait,Côte d'Ivoire,0,2,1/12/2008
+1,1,Kuwait,Cote d'Ivoire,0,2,1/12/2008
 1,1,Morocco,Zambia,2,0,1/12/2008
 1,1,Senegal,Namibia,3,1,1/12/2008
 1,1,Angola,Egypt,3,3,1/13/2008
@@ -8656,7 +8656,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Guyana,Grenada,1,2,1/20/2008
 0,0,Mali,Benin,1,0,1/21/2008
 0,0,Namibia,Morocco,1,5,1/21/2008
-0,0,Nigeria,Côte d'Ivoire,0,1,1/21/2008
+0,0,Nigeria,Cote d'Ivoire,0,1,1/21/2008
 0,0,Egypt,Cameroon,4,2,1/22/2008
 0,0,Sudan,Zambia,0,3,1/22/2008
 1,1,Belize,El Salvador,0,1,1/22/2008
@@ -8667,7 +8667,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Guinea,Morocco,3,2,1/24/2008
 0,1,Jordan,Iraq,1,1,1/24/2008
 0,1,Kuwait,Singapore,0,2,1/24/2008
-0,0,Côte d'Ivoire,Benin,4,1,1/25/2008
+0,0,Cote d'Ivoire,Benin,4,1,1/25/2008
 0,0,Nigeria,Mali,0,0,1/25/2008
 0,0,Cameroon,Zambia,5,1,1/26/2008
 0,0,Egypt,Sudan,3,0,1/26/2008
@@ -8683,7 +8683,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Ghana,Morocco,2,0,1/28/2008
 0,0,Guinea,Namibia,1,1,1/28/2008
 1,1,Jordan,Lebanon,4,1,1/28/2008
-0,0,Côte d'Ivoire,Mali,3,0,1/29/2008
+0,0,Cote d'Ivoire,Mali,3,0,1/29/2008
 0,0,Nigeria,Benin,2,0,1/29/2008
 1,1,Haiti,El Salvador,0,0,1/29/2008
 0,0,Cameroon,Sudan,3,0,1/30/2008
@@ -8700,7 +8700,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Iceland,Belarus,0,2,2/2/2008
 1,1,Malta,Armenia,0,1,2/2/2008
 1,0,Bermuda,Cayman Islands,1,1,2/3/2008
-0,0,Côte d'Ivoire,Guinea,5,0,2/3/2008
+0,0,Cote d'Ivoire,Guinea,5,0,2/3/2008
 1,0,Ghana,Nigeria,2,1,2/3/2008
 0,1,Azerbaijan,Kazakhstan,0,0,2/3/2008
 1,1,Venezuela,Haiti,1,0,2/3/2008
@@ -8750,9 +8750,9 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,USA,Mexico,2,2,2/6/2008
 1,1,Venezuela,Haiti,1,1,2/6/2008
 1,1,Wales,Norway,3,0,2/6/2008
-0,0,Côte d'Ivoire,Egypt,1,4,2/7/2008
+0,0,Cote d'Ivoire,Egypt,1,4,2/7/2008
 1,0,Ghana,Cameroon,0,1,2/7/2008
-1,0,Ghana,Côte d'Ivoire,4,2,2/9/2008
+1,0,Ghana,Cote d'Ivoire,4,2,2/9/2008
 1,1,Swaziland,Botswana,1,4,2/9/2008
 0,0,Egypt,Cameroon,1,0,2/10/2008
 1,1,St. Vincent / Grenadines,Grenada,1,2,2/10/2008
@@ -8842,7 +8842,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Sudan,Liberia,0,2,3/26/2008
 0,1,Sweden,Brazil,0,1,3/26/2008
 1,1,Switzerland,Germany,0,4,3/26/2008
-0,1,Tunisia,Côte d'Ivoire,2,0,3/26/2008
+0,1,Tunisia,Cote d'Ivoire,2,0,3/26/2008
 1,1,Uganda,Libya,1,1,3/26/2008
 1,1,Ukraine,Serbia,2,0,3/26/2008
 1,1,Venezuela,Bolivia,0,1,3/26/2008
@@ -8887,7 +8887,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Turkey,Slovakia,1,0,5/20/2008
 1,1,Curacao,Suriname,2,1,5/21/2008
 1,1,Mozambique,Lesotho,2,3,5/21/2008
-0,1,Côte d'Ivoire,Paraguay,1,1,5/22/2008
+0,1,Cote d'Ivoire,Paraguay,1,1,5/22/2008
 1,1,Libya,Zambia,2,2,5/22/2008
 1,1,Yemen,Sudan,1,1,5/22/2008
 1,1,Australia,Ghana,1,0,5/23/2008
@@ -8899,7 +8899,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Croatia,Moldova,1,0,5/24/2008
 1,1,Hungary,Greece,3,2,5/24/2008
 1,1,India,Chinese Taipei,3,0,5/24/2008
-1,1,Japan,Côte d'Ivoire,1,0,5/24/2008
+1,1,Japan,Cote d'Ivoire,1,0,5/24/2008
 0,1,Nepal,Macau,3,2,5/24/2008
 1,1,Netherlands,Ukraine,3,0,5/24/2008
 1,1,Republic of Ireland,Serbia,1,1,5/24/2008
@@ -8964,7 +8964,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Benin,3,0,6/1/2008
 1,0,Australia,Iraq,1,0,6/1/2008
 1,0,Burundi,Seychelles,1,0,6/1/2008
-1,0,Côte d'Ivoire,Mozambique,1,0,6/1/2008
+1,0,Cote d'Ivoire,Mozambique,1,0,6/1/2008
 1,0,Egypt,Congo DR,2,1,6/1/2008
 1,0,Equatorial Guinea,Sierra Leone,2,0,6/1/2008
 1,0,Ghana,Libya,3,0,6/1/2008
@@ -9047,7 +9047,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Germany,Poland,2,0,6/8/2008
 1,0,Kuwait,Syria,4,2,6/8/2008
 1,0,Lesotho,Ghana,2,3,6/8/2008
-1,0,Madagascar,Côte d'Ivoire,0,0,6/8/2008
+1,0,Madagascar,Cote d'Ivoire,0,0,6/8/2008
 1,0,Mauritius,Cameroon,0,3,6/8/2008
 1,0,Mozambique,Botswana,1,2,6/8/2008
 1,0,Niger,Angola,1,2,6/8/2008
@@ -9077,7 +9077,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mauritania,Ethiopia,0,1,6/13/2008
 0,0,Netherlands,France,4,1,6/13/2008
 1,0,Bahrain,Oman,1,1,6/14/2008
-1,0,Botswana,Côte d'Ivoire,1,1,6/14/2008
+1,0,Botswana,Cote d'Ivoire,1,1,6/14/2008
 1,0,Chad,Congo,2,1,6/14/2008
 1,0,China PR,Iraq,1,2,6/14/2008
 1,0,Gabon,Ghana,2,0,6/14/2008
@@ -9108,8 +9108,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Uganda,Angola,3,1,6/14/2008
 1,0,Uruguay,Venezuela,1,1,6/14/2008
 1,0,Uzbekistan,Lebanon,3,0,6/14/2008
-1,0,Vanuatu,New Caledonia,1,1,6/14/2008
 0,1,India,Maldives,0,1,6/14/2008
+1,0,Vanuatu,New Caledonia,1,1,6/14/2008
 1,0,Argentina,Ecuador,1,1,6/15/2008
 1,0,Belize,Mexico,0,2,6/15/2008
 1,0,Bolivia,Chile,0,2,6/15/2008
@@ -9153,13 +9153,13 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mexico,Belize,7,0,6/21/2008
 1,0,Morocco,Rwanda,2,0,6/21/2008
 0,0,Netherlands,Russia,1,3,6/21/2008
-1,0,New Caledonia,Vanuatu,3,0,6/21/2008
 1,0,Nigeria,Equatorial Guinea,2,0,6/21/2008
 1,0,Senegal,Liberia,3,1,6/21/2008
 1,0,South Africa,Sierra Leone,0,0,6/21/2008
 1,0,St. Lucia,Guatemala,1,3,6/21/2008
 1,0,Tunisia,Burundi,2,1,6/21/2008
 1,0,Zambia,Swaziland,1,0,6/21/2008
+1,0,New Caledonia,Vanuatu,3,0,6/21/2008
 1,0,Australia,China PR,0,1,6/22/2008
 1,0,Barbados,USA,0,1,6/22/2008
 1,0,Benin,Niger,2,0,6/22/2008
@@ -9167,7 +9167,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Cape Verde Islands,Mauritius,3,1,6/22/2008
 1,0,Congo,Chad,2,0,6/22/2008
 1,0,Congo DR,Djibouti,5,1,6/22/2008
-1,0,Côte d'Ivoire,Botswana,4,0,6/22/2008
+1,0,Cote d'Ivoire,Botswana,4,0,6/22/2008
 1,0,Cuba,Antigua and Barbuda,4,0,6/22/2008
 1,0,Curacao,Haiti,0,1,6/22/2008
 1,0,Egypt,Malawi,2,0,6/22/2008
@@ -9271,7 +9271,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Estonia,Malta,2,1,8/20/2008
 1,1,Finland,Israel,2,0,8/20/2008
 1,1,Germany,Belgium,2,0,8/20/2008
-0,1,Guinea,Côte d'Ivoire,1,2,8/20/2008
+0,1,Guinea,Cote d'Ivoire,1,2,8/20/2008
 1,1,Hungary,Montenegro,3,3,8/20/2008
 1,1,Iceland,Azerbaijan,1,1,8/20/2008
 1,1,Japan,Uruguay,1,3,8/20/2008
@@ -9351,7 +9351,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mexico,Jamaica,3,0,9/6/2008
 1,0,Moldova,Latvia,1,2,9/6/2008
 1,0,Montenegro,Bulgaria,2,2,9/6/2008
-1,0,New Caledonia,New Zealand,1,3,9/6/2008
 1,0,Norway,Iceland,2,2,9/6/2008
 1,0,Peru,Venezuela,1,0,9/6/2008
 1,0,Poland,Slovenia,1,1,9/6/2008
@@ -9371,13 +9370,14 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Wales,Azerbaijan,1,0,9/6/2008
 1,1,Netherlands,Australia,1,2,9/6/2008
 1,1,Oman,Morocco,0,0,9/6/2008
+1,0,New Caledonia,New Zealand,1,3,9/6/2008
 1,0,Benin,Angola,3,2,9/7/2008
 1,0,Chile,Brazil,0,3,9/7/2008
 1,0,Congo,Mali,1,0,9/7/2008
 1,0,Congo DR,Egypt,0,1,9/7/2008
 1,0,Lesotho,Gabon,0,3,9/7/2008
 1,0,Madagascar,Botswana,1,0,9/7/2008
-1,0,Mozambique,Côte d'Ivoire,1,1,9/7/2008
+1,0,Mozambique,Cote d'Ivoire,1,1,9/7/2008
 1,0,Niger,Uganda,3,1,9/7/2008
 1,0,Zimbabwe,Guinea,0,0,9/7/2008
 1,0,Paraguay,Venezuela,2,0,9/9/2008
@@ -9406,7 +9406,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mexico,Canada,2,1,9/10/2008
 1,0,Moldova,Israel,1,2,9/10/2008
 1,0,Montenegro,Republic of Ireland,0,0,9/10/2008
-1,0,New Zealand,New Caledonia,3,0,9/10/2008
 1,0,Northern Ireland,Czech Republic,0,0,9/10/2008
 1,0,Peru,Argentina,1,1,9/10/2008
 1,0,Portugal,Denmark,2,3,9/10/2008
@@ -9426,6 +9425,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Vanuatu,Fiji,2,1,9/10/2008
 1,0,Zambia,Togo,1,0,9/10/2008
 1,1,Oman,Zimbabwe,3,2,9/10/2008
+1,0,New Zealand,New Caledonia,3,0,9/10/2008
 1,0,St. Vincent / Grenadines,Anguilla,3,1,9/17/2008
 1,1,Antigua and Barbuda,Guyana,3,0,9/21/2008
 1,0,St. Kitts and Nevis,British Virgin Islands,4,0,9/24/2008
@@ -9447,7 +9447,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Bulgaria,Italy,0,0,10/11/2008
 1,0,Cameroon,Mauritius,5,0,10/11/2008
 1,0,Colombia,Paraguay,0,1,10/11/2008
-1,0,Côte d'Ivoire,Madagascar,3,0,10/11/2008
+1,0,Cote d'Ivoire,Madagascar,3,0,10/11/2008
 1,0,Denmark,Malta,3,0,10/11/2008
 1,0,England,Kazakhstan,5,1,10/11/2008
 1,0,Equatorial Guinea,South Africa,0,1,10/11/2008
@@ -9613,7 +9613,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Germany,England,1,2,11/19/2008
 1,1,Ghana,Tunisia,0,0,11/19/2008
 1,1,Greece,Italy,1,1,11/19/2008
-1,1,Israel,Côte d'Ivoire,2,2,11/19/2008
+1,1,Israel,Cote d'Ivoire,2,2,11/19/2008
 1,1,Luxembourg,Belgium,1,1,11/19/2008
 1,1,Macau,Hong Kong,1,9,11/19/2008
 1,1,Malta,Iceland,0,1,11/19/2008
@@ -9813,7 +9813,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Switzerland,Bulgaria,1,1,2/11/2009
 1,1,Tanzania,Zimbabwe,0,0,2/11/2009
 1,1,Tunisia,Netherlands,1,1,2/11/2009
-1,1,Turkey,Côte d'Ivoire,1,1,2/11/2009
+1,1,Turkey,Cote d'Ivoire,1,1,2/11/2009
 1,1,Venezuela,Guatemala,2,1,2/11/2009
 0,1,Wales,Poland,0,1,2/11/2009
 1,0,Australia,Kuwait,0,1,3/5/2009
@@ -9877,7 +9877,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,South Africa,Norway,2,1,3/28/2009
 1,1,Sri Lanka,Maldives,1,1,3/28/2009
 1,1,Thailand,New Zealand,3,1,3/28/2009
-1,0,Côte d'Ivoire,Malawi,5,0,3/29/2009
+1,0,Cote d'Ivoire,Malawi,5,0,3/29/2009
 1,0,Ecuador,Brazil,1,1,3/29/2009
 1,0,Egypt,Zambia,1,1,3/29/2009
 1,0,Ghana,Benin,1,0,3/29/2009
@@ -10018,7 +10018,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Algeria,Egypt,3,1,6/7/2009
 1,0,Benin,Sudan,1,0,6/7/2009
 1,0,Cameroon,Morocco,0,0,6/7/2009
-1,0,Guinea,Côte d'Ivoire,1,2,6/7/2009
+1,0,Guinea,Cote d'Ivoire,1,2,6/7/2009
 1,0,Mali,Ghana,0,2,6/7/2009
 1,0,Nigeria,Kenya,3,0,6/7/2009
 1,0,Peru,Ecuador,1,2,6/7/2009
@@ -10065,7 +10065,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,USA,Brazil,0,3,6/18/2009
 1,1,Haiti,Panama,1,1,6/19/2009
 1,1,Swaziland,Lesotho,1,1,6/19/2009
-1,0,Burkina Faso,Côte d'Ivoire,2,3,6/20/2009
+1,0,Burkina Faso,Cote d'Ivoire,2,3,6/20/2009
 0,0,Iraq,New Zealand,0,0,6/20/2009
 1,0,Kenya,Mozambique,2,1,6/20/2009
 1,0,Morocco,Togo,0,0,6/20/2009
@@ -10167,7 +10167,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Sweden,Finland,1,0,8/12/2009
 1,1,Switzerland,Italy,0,0,8/12/2009
 0,1,Togo,Angola,0,2,8/12/2009
-1,1,Tunisia,Côte d'Ivoire,0,0,8/12/2009
+1,1,Tunisia,Cote d'Ivoire,0,0,8/12/2009
 1,1,Ukraine,Turkey,0,3,8/12/2009
 1,1,Zimbabwe,Lesotho,1,1,8/12/2009
 1,1,Malaysia,China PR,0,0,8/15/2009
@@ -10202,7 +10202,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Chile,Venezuela,2,2,9/5/2009
 1,0,Colombia,Ecuador,2,0,9/5/2009
 1,0,Costa Rica,Mexico,0,3,9/5/2009
-1,0,Côte d'Ivoire,Burkina Faso,5,0,9/5/2009
+1,0,Cote d'Ivoire,Burkina Faso,5,0,9/5/2009
 1,0,Croatia,Belarus,1,0,9/5/2009
 1,0,Cyprus,Republic of Ireland,1,2,9/5/2009
 1,0,Denmark,Portugal,1,1,9/5/2009
@@ -10315,7 +10315,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Israel,Moldova,3,1,10/10/2009
 1,0,Liechtenstein,Azerbaijan,0,2,10/10/2009
 1,0,Luxembourg,Switzerland,0,3,10/10/2009
-1,0,Malawi,Côte d'Ivoire,1,1,10/10/2009
+1,0,Malawi,Cote d'Ivoire,1,1,10/10/2009
 1,0,Mexico,El Salvador,4,1,10/10/2009
 1,0,Montenegro,Georgia,2,1,10/10/2009
 1,0,Portugal,Hungary,3,0,10/10/2009
@@ -10414,7 +10414,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Paraguay,Qatar,0,2,11/13/2009
 1,0,Burkina Faso,Malawi,1,0,11/14/2009
 1,0,Costa Rica,Uruguay,0,1,11/14/2009
-1,0,Côte d'Ivoire,Guinea,3,0,11/14/2009
+1,0,Cote d'Ivoire,Guinea,3,0,11/14/2009
 1,0,Egypt,Algeria,2,0,11/14/2009
 1,0,Greece,Ukraine,0,0,11/14/2009
 1,0,Iran,Jordan,1,0,11/14/2009
@@ -10475,7 +10475,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Austria,Spain,1,5,11/18/2009
 0,1,Azerbaijan,Czech Republic,2,0,11/18/2009
 1,1,Denmark,USA,3,1,11/18/2009
-1,1,Germany,Côte d'Ivoire,2,2,11/18/2009
+1,1,Germany,Cote d'Ivoire,2,2,11/18/2009
 0,1,Honduras,Peru,1,2,11/18/2009
 1,1,Iran,FYR Macedonia,1,1,11/18/2009
 1,1,Italy,Sweden,1,0,11/18/2009
@@ -10535,7 +10535,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Yemen,Tajikistan,0,1,1/2/2010
 0,1,Angola,Gambia,1,1,1/3/2010
 0,1,Egypt,Mali,1,0,1/4/2010
-1,1,Tanzania,Côte d'Ivoire,0,1,1/4/2010
+1,1,Tanzania,Cote d'Ivoire,0,1,1/4/2010
 1,1,Ghana,Malawi,0,0,1/5/2010
 1,0,Bahrain,Hong Kong,4,0,1/6/2010
 1,0,China PR,Syria,0,0,1/6/2010
@@ -10548,12 +10548,12 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Yemen,Japan,2,3,1/6/2010
 1,1,Benin,Libya,1,0,1/6/2010
 0,1,Gabon,Mozambique,2,0,1/6/2010
-0,1,Rwanda,Côte d'Ivoire,0,2,1/7/2010
+0,1,Rwanda,Cote d'Ivoire,0,2,1/7/2010
 1,1,Kenya,Cameroon,1,3,1/9/2010
 1,1,Tunisia,Gambia,1,2,1/9/2010
 0,1,Zambia,Korea Republic,4,2,1/9/2010
 1,0,Angola,Mali,4,4,1/10/2010
-0,0,Côte d'Ivoire,Burkina Faso,0,0,1/11/2010
+0,0,Cote d'Ivoire,Burkina Faso,0,0,1/11/2010
 0,0,Malawi,Algeria,3,0,1/11/2010
 0,0,Egypt,Nigeria,3,1,1/12/2010
 0,0,Mozambique,Benin,2,2,1/12/2010
@@ -10561,7 +10561,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Zambia,Tunisia,1,1,1/13/2010
 1,0,Angola,Malawi,2,0,1/14/2010
 0,0,Mali,Algeria,0,1,1/14/2010
-0,0,Côte d'Ivoire,Ghana,3,1,1/15/2010
+0,0,Cote d'Ivoire,Ghana,3,1,1/15/2010
 1,1,Yemen,Kenya,3,1,1/15/2010
 0,0,Egypt,Mozambique,2,0,1/16/2010
 0,0,Nigeria,Benin,1,0,1/16/2010
@@ -10590,7 +10590,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Thailand,Denmark,0,3,1/23/2010
 1,1,USA,Honduras,1,3,1/23/2010
 1,0,Angola,Ghana,0,1,1/24/2010
-0,0,Côte d'Ivoire,Algeria,2,3,1/24/2010
+0,0,Cote d'Ivoire,Algeria,2,3,1/24/2010
 0,0,Egypt,Cameroon,3,1,1/25/2010
 0,0,Zambia,Nigeria,0,0,1/25/2010
 1,1,Argentina,Costa Rica,3,2,1/26/2010
@@ -10640,7 +10640,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Armenia,Belarus,1,3,3/3/2010
 1,1,Austria,Denmark,2,1,3/3/2010
 1,1,Bosnia-Herzegovina,Ghana,2,1,3/3/2010
-0,1,Côte d'Ivoire,Korea Republic,0,2,3/3/2010
+0,1,Cote d'Ivoire,Korea Republic,0,2,3/3/2010
 1,1,Cyprus,Iceland,0,0,3/3/2010
 0,1,El Salvador,Guatemala,1,2,3/3/2010
 1,1,England,Egypt,3,1,3/3/2010
@@ -10744,7 +10744,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Japan,England,1,2,5/30/2010
 0,1,Mexico,Gambia,5,1,5/30/2010
 0,1,Nigeria,Colombia,1,1,5/30/2010
-0,1,Paraguay,Côte d'Ivoire,2,2,5/30/2010
+0,1,Paraguay,Cote d'Ivoire,2,2,5/30/2010
 1,1,Tunisia,France,1,1,5/30/2010
 1,1,South Africa,Guatemala,5,0,5/31/2010
 0,1,Australia,Denmark,1,0,6/1/2010
@@ -10763,7 +10763,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Italy,Mexico,1,2,6/3/2010
 0,1,Spain,Korea Republic,1,0,6/3/2010
 1,1,France,China PR,0,1,6/4/2010
-0,1,Japan,Côte d'Ivoire,0,2,6/4/2010
+0,1,Japan,Cote d'Ivoire,0,2,6/4/2010
 1,1,Luxembourg,Faroe Islands,0,0,6/4/2010
 1,1,Slovenia,New Zealand,3,1,6/4/2010
 1,1,Sudan,Palestine,1,1,6/4/2010
@@ -10792,7 +10792,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Japan,Cameroon,1,0,6/14/2010
 0,0,Netherlands,Denmark,2,0,6/14/2010
 0,0,Brazil,Korea DPR,2,1,6/15/2010
-0,0,Côte d'Ivoire,Portugal,0,0,6/15/2010
+0,0,Cote d'Ivoire,Portugal,0,0,6/15/2010
 0,0,New Zealand,Slovakia,1,1,6/15/2010
 0,0,Chile,Honduras,1,0,6/16/2010
 1,0,South Africa,Uruguay,0,3,6/16/2010
@@ -10809,7 +10809,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Japan,Netherlands,0,1,6/19/2010
 0,1,Estonia,Latvia,0,0,6/19/2010
 1,1,Niger,Chad,1,1,6/19/2010
-0,0,Brazil,Côte d'Ivoire,3,1,6/20/2010
+0,0,Brazil,Cote d'Ivoire,3,1,6/20/2010
 0,0,Italy,New Zealand,1,1,6/20/2010
 0,0,Paraguay,Slovakia,2,0,6/20/2010
 1,1,Lithuania,Estonia,2,0,6/20/2010
@@ -10830,7 +10830,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Netherlands,Cameroon,2,1,6/24/2010
 0,0,Paraguay,New Zealand,0,0,6/24/2010
 0,0,Brazil,Portugal,0,0,6/25/2010
-0,0,Côte d'Ivoire,Korea DPR,3,0,6/25/2010
+0,0,Cote d'Ivoire,Korea DPR,3,0,6/25/2010
 0,0,Honduras,Switzerland,0,0,6/25/2010
 0,0,Spain,Chile,2,1,6/25/2010
 0,0,Uruguay,Korea Republic,2,1,6/26/2010
@@ -10857,7 +10857,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Trinidad and Tobago,Antigua and Barbuda,4,1,7/21/2010
 1,1,Botswana,Zimbabwe,2,0,8/4/2010
 1,1,Bosnia-Herzegovina,Qatar,1,1,8/10/2010
-0,1,Italy,Côte d'Ivoire,0,1,8/10/2010
+0,1,Italy,Cote d'Ivoire,0,1,8/10/2010
 1,1,USA,Brazil,0,2,8/10/2010
 1,0,Chad,Tunisia,1,3,8/11/2010
 1,0,Estonia,Faroe Islands,2,1,8/11/2010
@@ -10947,7 +10947,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Venezuela,Colombia,0,2,9/3/2010
 1,0,Botswana,Togo,2,1,9/4/2010
 1,0,Cape Verde Islands,Mali,1,0,9/4/2010
-1,0,Côte d'Ivoire,Rwanda,3,0,9/4/2010
+1,0,Cote d'Ivoire,Rwanda,3,0,9/4/2010
 1,0,Gambia,Namibia,3,1,9/4/2010
 1,0,Guinea-Bissau,Kenya,1,0,9/4/2010
 1,0,Mauritius,Cameroon,1,3,9/4/2010
@@ -11039,8 +11039,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Yemen,Palestine,3,1,9/27/2010
 0,1,Kuwait,Jordan,2,2,9/28/2010
 0,1,Oman,Iran,2,2,9/28/2010
-0,1,New Caledonia,Tahiti,1,1,9/29/2010
 0,1,Palestine,Iraq,0,3,9/29/2010
+0,1,New Caledonia,Tahiti,1,1,9/29/2010
 0,1,Iran,Iraq,2,1,10/1/2010
 0,1,Kuwait,Yemen,1,1,10/1/2010
 1,0,Puerto Rico,Anguilla,3,1,10/2/2010
@@ -11087,7 +11087,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Ukraine,Canada,2,2,10/8/2010
 1,0,Angola,Guinea-Bissau,1,0,10/9/2010
 1,0,Burkina Faso,Gambia,3,1,10/9/2010
-1,0,Burundi,Côte d'Ivoire,0,1,10/9/2010
+1,0,Burundi,Cote d'Ivoire,0,1,10/9/2010
 1,0,Cameroon,Congo DR,1,1,10/9/2010
 1,0,Comoros,Mozambique,0,1,10/9/2010
 1,0,France,Romania,2,0,10/9/2010
@@ -11244,7 +11244,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Northern Ireland,Morocco,1,1,11/17/2010
 1,1,Oman,Belarus,0,4,11/17/2010
 1,1,Panama,Honduras,2,0,11/17/2010
-1,1,Poland,Côte d'Ivoire,3,1,11/17/2010
+1,1,Poland,Cote d'Ivoire,3,1,11/17/2010
 1,1,Portugal,Spain,4,0,11/17/2010
 1,1,Republic of Ireland,Norway,1,2,11/17/2010
 0,1,Romania,Italy,1,1,11/17/2010
@@ -11408,7 +11408,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Korea Republic,Uzbekistan,3,2,1/28/2011
 0,0,Japan,Australia,1,0,1/29/2011
 0,1,Poland,Moldova,1,0,2/6/2011
-0,1,Côte d'Ivoire,Mali,1,0,2/8/2011
+0,1,Cote d'Ivoire,Mali,1,0,2/8/2011
 1,1,Equatorial Guinea,Chad,2,0,2/8/2011
 0,1,Ghana,Togo,4,1,2/8/2011
 1,1,Peru,Panama,1,0,2/8/2011
@@ -11535,7 +11535,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Algeria,Morocco,1,0,3/27/2011
 1,0,Congo,Ghana,0,3,3/27/2011
 1,0,Congo DR,Mauritius,3,0,3/27/2011
-0,0,Côte d'Ivoire,Benin,2,1,3/27/2011
+0,0,Cote d'Ivoire,Benin,2,1,3/27/2011
 1,0,Madagascar,Guinea,1,1,3/27/2011
 1,0,Mozambique,Zambia,0,2,3/27/2011
 1,0,Niger,Sierra Leone,3,1,3/27/2011
@@ -11654,7 +11654,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Peru,Czech Republic,0,0,6/4/2011
 1,1,USA,Spain,0,4,6/4/2011
 1,0,Angola,Kenya,1,0,6/5/2011
-1,0,Benin,Côte d'Ivoire,2,6,6/5/2011
+1,0,Benin,Cote d'Ivoire,2,6,6/5/2011
 1,0,Botswana,Malawi,0,0,6/5/2011
 1,0,Burundi,Rwanda,3,1,6/5/2011
 1,0,Central African Republic,Tanzania,2,1,6/5/2011
@@ -11845,7 +11845,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Botswana,Kenya,1,0,8/10/2011
 1,1,China PR,Jamaica,1,0,8/10/2011
 1,1,Costa Rica,Ecuador,0,2,8/10/2011
-0,1,Côte d'Ivoire,Israel,4,3,8/10/2011
+0,1,Cote d'Ivoire,Israel,4,3,8/10/2011
 1,1,Cyprus,Moldova,3,2,8/10/2011
 1,1,France,Chile,1,1,8/10/2011
 0,1,Gabon,Guinea,1,1,8/10/2011
@@ -11901,18 +11901,18 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Antigua and Barbuda,St. Vincent / Grenadines,1,0,8/26/2011
 1,1,Bahrain,Sudan,1,0,8/26/2011
 0,0,Fiji,Tahiti,3,0,8/27/2011
-1,0,New Caledonia,Vanuatu,5,0,8/27/2011
 0,0,Papua New Guinea,Cook Islands,4,0,8/27/2011
 0,0,Solomon Islands,Guam,7,0,8/27/2011
 0,0,Tuvalu,American Samoa,4,0,8/27/2011
 1,1,Angola,Congo DR,1,2,8/27/2011
 1,1,Jordan,Indonesia,1,0,8/27/2011
 1,1,Oman,Kuwait,1,0,8/27/2011
+1,0,New Caledonia,Vanuatu,5,0,8/27/2011
 1,1,Antigua and Barbuda,St. Vincent / Grenadines,2,2,8/28/2011
 0,0,American Samoa,Solomon Islands,0,4,8/30/2011
-1,0,New Caledonia,Guam,9,0,8/30/2011
 0,0,Tahiti,Cook Islands,7,0,8/30/2011
 0,0,Vanuatu,Tuvalu,5,1,8/30/2011
+1,0,New Caledonia,Guam,9,0,8/30/2011
 0,0,American Samoa,Guam,0,2,9/1/2011
 0,0,Tahiti,Papua New Guinea,1,1,9/1/2011
 0,0,Vanuatu,Solomon Islands,1,0,9/1/2011
@@ -11977,14 +11977,14 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Malawi,Tunisia,0,0,9/3/2011
 1,0,Mali,Cape Verde Islands,3,0,9/3/2011
 1,0,Namibia,Gambia,1,0,9/3/2011
-1,0,New Caledonia,American Samoa,8,0,9/3/2011
-1,0,Rwanda,Côte d'Ivoire,0,5,9/3/2011
+1,0,Rwanda,Cote d'Ivoire,0,5,9/3/2011
 1,0,Scotland,Czech Republic,2,2,9/3/2011
 1,0,Senegal,Congo DR,2,0,9/3/2011
 1,0,Sierra Leone,Egypt,2,1,9/3/2011
 1,0,Tanzania,Algeria,1,1,9/3/2011
 1,1,Burkina Faso,Equatorial Guinea,1,0,9/3/2011
 0,1,Honduras,Colombia,0,2,9/3/2011
+1,0,New Caledonia,American Samoa,8,0,9/3/2011
 1,0,Angola,Uganda,2,0,9/4/2011
 1,0,Burundi,Benin,1,1,9/4/2011
 1,0,Central African Republic,Morocco,0,0,9/4/2011
@@ -11999,8 +11999,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,American Samoa,Vanuatu,0,8,9/5/2011
 1,1,Bolivia,Peru,0,0,9/5/2011
 0,1,Brazil,Ghana,1,0,9/5/2011
-1,1,New Caledonia,Solomon Islands,1,2,9/5/2011
 1,1,Papua New Guinea,Fiji,0,2,9/5/2011
+1,1,New Caledonia,Solomon Islands,1,2,9/5/2011
 1,0,Austria,Turkey,0,0,9/6/2011
 1,0,Azerbaijan,Kazakhstan,3,2,9/6/2011
 1,0,Barbados,Trinidad and Tobago,0,2,9/6/2011
@@ -12056,8 +12056,8 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Equatorial Guinea,Central African Republic,3,0,9/7/2011
 1,1,Fiji,Solomon Islands,1,2,9/7/2011
 1,1,New Caledonia,Tahiti,3,1,9/7/2011
-1,1,New Caledonia,Solomon Islands,2,0,9/9/2011
 0,1,Tahiti,Fiji,2,1,9/9/2011
+1,1,New Caledonia,Solomon Islands,2,0,9/9/2011
 1,1,St. Vincent / Grenadines,Dominica,1,0,9/11/2011
 0,1,Argentina,Brazil,0,0,9/14/2011
 1,0,St. Vincent / Grenadines,Grenada,2,1,9/18/2011
@@ -12136,7 +12136,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,USA,Honduras,1,0,10/8/2011
 1,0,Algeria,Central African Republic,2,0,10/9/2011
 1,0,Benin,Rwanda,0,1,10/9/2011
-1,0,Côte d'Ivoire,Burundi,2,1,10/9/2011
+1,0,Cote d'Ivoire,Burundi,2,1,10/9/2011
 1,0,Mauritius,Senegal,0,2,10/9/2011
 1,0,Morocco,Tanzania,3,1,10/9/2011
 1,0,Albania,Romania,1,1,10/11/2011
@@ -12260,7 +12260,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Algeria,Tunisia,1,0,11/12/2011
 1,1,England,Spain,1,0,11/12/2011
 0,1,Nigeria,Botswana,0,0,11/12/2011
-1,1,South Africa,Côte d'Ivoire,1,1,11/12/2011
+1,1,South Africa,Cote d'Ivoire,1,1,11/12/2011
 1,1,Wales,Norway,4,1,11/12/2011
 1,1,India,Malaysia,1,1,11/13/2011
 1,1,Morocco,Cameroon,1,1,11/13/2011
@@ -12396,12 +12396,12 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Tunisia,Sudan,3,0,1/9/2012
 1,1,Nigeria,Angola,0,0,1/11/2012
 1,1,Senegal,Sudan,1,0,1/12/2012
-0,1,Tunisia,Côte d'Ivoire,0,2,1/13/2012
+0,1,Tunisia,Cote d'Ivoire,0,2,1/13/2012
 1,1,Angola,Sierra Leone,3,1,1/14/2012
 0,1,Zambia,Namibia,0,0,1/14/2012
 1,0,Sao Tome e Principe,Lesotho,1,0,1/15/2012
 1,1,Oman,Congo DR,2,2,1/15/2012
-0,1,Côte d'Ivoire,Libya,1,0,1/16/2012
+0,1,Cote d'Ivoire,Libya,1,0,1/16/2012
 1,1,Gabon,Sudan,0,0,1/16/2012
 1,1,Kuwait,Uzbekistan,1,0,1/17/2012
 0,1,Bahrain,Sweden,0,2,1/18/2012
@@ -12410,7 +12410,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Senegal,Zambia,1,2,1/21/2012
 1,1,USA,Venezuela,1,0,1/21/2012
 0,0,Burkina Faso,Angola,1,2,1/22/2012
-0,0,Côte d'Ivoire,Sudan,1,0,1/22/2012
+0,0,Cote d'Ivoire,Sudan,1,0,1/22/2012
 1,0,Lesotho,Sao Tome e Principe,0,0,1/22/2012
 1,1,Trinidad and Tobago,Finland,2,3,1/22/2012
 1,0,Gabon,Niger,2,0,1/23/2012
@@ -12421,7 +12421,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Libya,Zambia,2,2,1/25/2012
 0,1,Mexico,Venezuela,3,1,1/25/2012
 1,1,Panama,USA,0,1,1/25/2012
-0,0,Côte d'Ivoire,Burkina Faso,2,0,1/26/2012
+0,0,Cote d'Ivoire,Burkina Faso,2,0,1/26/2012
 0,0,Sudan,Angola,2,2,1/26/2012
 1,0,Gabon,Morocco,3,2,1/27/2012
 0,0,Niger,Tunisia,1,2,1/27/2012
@@ -12431,20 +12431,20 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Equatorial Guinea,Zambia,0,1,1/29/2012
 0,0,Libya,Senegal,2,1,1/29/2012
 1,1,United Arab Emirates,Uzbekistan,1,0,1/29/2012
-0,0,Côte d'Ivoire,Angola,2,0,1/30/2012
+0,0,Cote d'Ivoire,Angola,2,0,1/30/2012
 0,0,Sudan,Burkina Faso,2,1,1/30/2012
 1,0,Gabon,Tunisia,1,0,1/31/2012
 0,0,Niger,Morocco,0,1,1/31/2012
 0,0,Botswana,Mali,1,2,2/1/2012
 0,0,Ghana,Guinea,1,1,2/1/2012
-0,0,Côte d'Ivoire,Equatorial Guinea,3,0,2/4/2012
+0,0,Cote d'Ivoire,Equatorial Guinea,3,0,2/4/2012
 0,0,Zambia,Sudan,3,0,2/4/2012
 1,0,Gabon,Mali,1,1,2/5/2012
 0,0,Ghana,Tunisia,2,1,2/5/2012
-0,0,Mali,Côte d'Ivoire,0,1,2/8/2012
+0,0,Mali,Cote d'Ivoire,0,1,2/8/2012
 0,0,Zambia,Ghana,1,0,2/8/2012
 0,0,Ghana,Mali,0,2,2/11/2012
-0,0,Zambia,Côte d'Ivoire,0,0,2/12/2012
+0,0,Zambia,Cote d'Ivoire,0,0,2/12/2012
 1,1,Liberia,Nigeria,0,2,2/15/2012
 1,1,Paraguay,Chile,2,0,2/15/2012
 1,1,Korea DPR,Kuwait,1,1,2/17/2012
@@ -12496,7 +12496,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Austria,Finland,3,1,2/29/2012
 1,1,Bolivia,Cuba,1,0,2/29/2012
 0,1,Chile,Ghana,1,1,2/29/2012
-1,1,Côte d'Ivoire,Guinea,0,0,2/29/2012
+1,1,Cote d'Ivoire,Guinea,0,0,2/29/2012
 1,1,Croatia,Sweden,1,3,2/29/2012
 1,1,Cyprus,Serbia,0,0,2/29/2012
 1,1,Denmark,Russia,0,2,2/29/2012
@@ -12606,7 +12606,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Tanzania,Malawi,0,0,5/26/2012
 1,1,USA,Scotland,5,1,5/26/2012
 0,1,Albania,Iran,1,0,5/27/2012
-0,1,Côte d'Ivoire,Mali,2,1,5/27/2012
+0,1,Cote d'Ivoire,Mali,2,1,5/27/2012
 1,1,Jamaica,Panama,0,1,5/27/2012
 1,1,Oman,Lebanon,1,1,5/27/2012
 1,1,Tunisia,Rwanda,5,1,5/27/2012
@@ -12630,7 +12630,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Egypt,Mozambique,2,0,6/1/2012
 1,0,Ghana,Lesotho,7,0,6/1/2012
 0,0,Samoa,Tahiti,1,1,6/1/2012
-0,0,Vanuatu,New Caledonia,2,5,6/1/2012
 1,1,Austria,Ukraine,3,2,6/1/2012
 1,1,Czech Republic,Hungary,1,2,6/1/2012
 1,1,Estonia,Finland,1,2,6/1/2012
@@ -12642,13 +12641,14 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Malaysia,Philippines,0,0,6/1/2012
 1,1,Panama,Jamaica,2,1,6/1/2012
 1,1,Puerto Rico,Nicaragua,3,1,6/1/2012
+0,0,Vanuatu,New Caledonia,2,5,6/1/2012
 1,0,Algeria,Rwanda,4,0,6/2/2012
 1,0,Argentina,Ecuador,4,0,6/2/2012
 1,0,Bolivia,Chile,0,2,6/2/2012
 1,0,Burkina Faso,Congo,0,0,6/2/2012
 1,0,Cameroon,Congo DR,1,0,6/2/2012
 1,0,Central African Republic,Botswana,2,0,6/2/2012
-1,0,Côte d'Ivoire,Tanzania,2,0,6/2/2012
+1,0,Cote d'Ivoire,Tanzania,2,0,6/2/2012
 1,0,Fiji,New Zealand,0,1,6/2/2012
 1,0,Gambia,Morocco,1,1,6/2/2012
 1,0,Kenya,Malawi,0,0,6/2/2012
@@ -12675,7 +12675,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Nigeria,Namibia,1,0,6/3/2012
 1,0,Peru,Colombia,0,1,6/3/2012
 1,0,South Africa,Ethiopia,1,1,6/3/2012
-0,0,Tahiti,New Caledonia,4,3,6/3/2012
 1,0,Togo,Libya,1,1,6/3/2012
 1,0,Uzbekistan,Iran,0,1,6/3/2012
 0,0,Vanuatu,Samoa,5,0,6/3/2012
@@ -12686,10 +12685,10 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Finland,Latvia,1,1,6/3/2012
 1,1,Puerto Rico,Nicaragua,1,1,6/3/2012
 1,1,Spain,China PR,1,0,6/3/2012
+0,0,Tahiti,New Caledonia,4,3,6/3/2012
 1,0,Fiji,Solomon Islands,0,0,6/4/2012
 0,0,Papua New Guinea,New Zealand,1,2,6/4/2012
 1,1,Hungary,Republic of Ireland,0,0,6/4/2012
-0,0,New Caledonia,Samoa,9,0,6/5/2012
 0,0,Tahiti,Vanuatu,4,1,6/5/2012
 1,1,Armenia,Kazakhstan,3,0,6/5/2012
 1,1,Austria,Romania,0,0,6/5/2012
@@ -12697,6 +12696,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Philippines,Indonesia,2,2,6/5/2012
 1,1,Sweden,Serbia,2,1,6/5/2012
 0,1,Turkey,Ukraine,2,0,6/5/2012
+0,0,New Caledonia,Samoa,9,0,6/5/2012
 0,0,New Zealand,Solomon Islands,1,1,6/6/2012
 0,0,Papua New Guinea,Fiji,1,1,6/6/2012
 1,1,Belarus,Lithuania,1,1,6/7/2012
@@ -12707,7 +12707,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Japan,Jordan,6,0,6/8/2012
 1,0,Lebanon,Uzbekistan,1,1,6/8/2012
 1,0,Mexico,Guyana,3,1,6/8/2012
-0,0,New Zealand,New Caledonia,0,2,6/8/2012
 1,0,Oman,Australia,0,0,6/8/2012
 1,0,Poland,Greece,1,1,6/8/2012
 1,0,Qatar,Korea Republic,1,4,6/8/2012
@@ -12717,6 +12716,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Bahrain,Kuwait,1,1,6/8/2012
 1,1,China PR,Vietnam,3,0,6/8/2012
 1,1,Singapore,Malaysia,2,2,6/8/2012
+0,0,New Zealand,New Caledonia,0,2,6/8/2012
 1,0,Bolivia,Paraguay,3,1,6/9/2012
 1,0,Botswana,South Africa,1,1,6/9/2012
 1,0,Cape Verde Islands,Tunisia,1,2,6/9/2012
@@ -12725,7 +12725,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Gabon,Burkina Faso,1,0,6/9/2012
 0,0,Germany,Portugal,1,0,6/9/2012
 1,0,Malawi,Nigeria,1,1,6/9/2012
-1,0,Morocco,Côte d'Ivoire,2,2,6/9/2012
+1,0,Morocco,Cote d'Ivoire,2,2,6/9/2012
 1,0,Namibia,Kenya,1,0,6/9/2012
 0,0,Netherlands,Denmark,0,1,6/9/2012
 1,0,Uganda,Senegal,1,1,6/9/2012
@@ -12745,10 +12745,10 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Rwanda,Benin,1,1,6/10/2012
 1,0,Solomon Islands,New Zealand,3,4,6/10/2012
 0,0,Spain,Italy,1,1,6/10/2012
-0,0,Tahiti,New Caledonia,1,0,6/10/2012
 1,0,Tanzania,Gambia,2,1,6/10/2012
 1,0,Uruguay,Peru,4,2,6/10/2012
 1,1,Hong Kong,Vietnam,1,2,6/10/2012
+0,0,Tahiti,New Caledonia,1,0,6/10/2012
 0,0,France,England,1,1,6/11/2012
 1,0,Ukraine,Sweden,2,1,6/11/2012
 1,0,Antigua and Barbuda,Jamaica,0,0,6/12/2012
@@ -12864,7 +12864,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Paraguay,Guatemala,3,3,8/15/2012
 1,1,Portugal,Panama,2,0,8/15/2012
 1,1,Puerto Rico,Spain,1,2,8/15/2012
-1,1,Russia,Côte d'Ivoire,1,1,8/15/2012
+1,1,Russia,Cote d'Ivoire,1,1,8/15/2012
 1,1,Scotland,Australia,3,1,8/15/2012
 1,1,Serbia,Republic of Ireland,0,0,8/15/2012
 1,1,Singapore,Hong Kong,2,0,8/15/2012
@@ -12919,7 +12919,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Moldova,England,0,5,9/7/2012
 1,0,Montenegro,Poland,2,2,9/7/2012
 1,0,Netherlands,Turkey,2,0,9/7/2012
-1,0,New Caledonia,New Zealand,0,2,9/7/2012
 1,0,Peru,Venezuela,2,1,9/7/2012
 1,0,Russia,Northern Ireland,2,0,9/7/2012
 1,0,Slovenia,Switzerland,0,2,9/7/2012
@@ -12929,9 +12928,10 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Singapore,Philippines,0,2,9/7/2012
 1,1,Spain,Saudi Arabia,5,0,9/7/2012
 1,1,Uzbekistan,Kuwait,3,0,9/7/2012
+1,0,New Caledonia,New Zealand,0,2,9/7/2012
 1,0,Cape Verde Islands,Cameroon,2,0,9/8/2012
 1,0,Central African Republic,Burkina Faso,1,0,9/8/2012
-1,0,Côte d'Ivoire,Senegal,4,2,9/8/2012
+1,0,Cote d'Ivoire,Senegal,4,2,9/8/2012
 1,0,Denmark,Czech Republic,0,0,9/8/2012
 1,0,Gabon,Togo,1,1,9/8/2012
 1,0,Ghana,Malawi,2,0,9/8/2012
@@ -12986,7 +12986,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Slovakia,Liechtenstein,2,0,9/11/2012
 1,0,Sweden,Kazakhstan,2,0,9/11/2012
 1,0,Switzerland,Albania,2,0,9/11/2012
-1,0,Tahiti,New Caledonia,0,4,9/11/2012
 1,0,Turkey,Estonia,3,0,9/11/2012
 1,0,Uruguay,Ecuador,1,1,9/11/2012
 1,0,USA,Jamaica,1,0,9/11/2012
@@ -12999,6 +12998,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Republic of Ireland,Oman,4,1,9/11/2012
 1,1,South Africa,Mozambique,2,0,9/11/2012
 1,1,United Arab Emirates,Kuwait,3,0,9/11/2012
+1,0,Tahiti,New Caledonia,0,4,9/11/2012
 1,1,Indonesia,Vietnam,0,0,9/15/2012
 1,1,Brazil,Argentina,2,1,9/19/2012
 1,1,Nepal,Bangladesh,1,1,9/20/2012
@@ -13059,7 +13059,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Serbia,Belgium,0,3,10/12/2012
 1,0,Slovakia,Latvia,2,1,10/12/2012
 1,0,Slovenia,Cyprus,2,1,10/12/2012
-1,0,Solomon Islands,New Caledonia,2,6,10/12/2012
 1,0,St. Kitts and Nevis,Trinidad and Tobago,0,1,10/12/2012
 1,0,Switzerland,Norway,1,1,10/12/2012
 1,0,Tahiti,New Zealand,0,2,10/12/2012
@@ -13071,11 +13070,12 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Lesotho,Swaziland,2,1,10/12/2012
 1,1,Poland,South Africa,1,0,10/12/2012
 1,1,United Arab Emirates,Uzbekistan,2,2,10/12/2012
+1,0,Solomon Islands,New Caledonia,2,6,10/12/2012
 1,0,Botswana,Mali,1,4,10/13/2012
 1,0,Malawi,Ghana,0,1,10/13/2012
 1,0,Morocco,Mozambique,4,0,10/13/2012
 1,0,Nigeria,Liberia,6,1,10/13/2012
-1,0,Senegal,Côte d'Ivoire,0,2,10/13/2012
+1,0,Senegal,Cote d'Ivoire,0,2,10/13/2012
 1,0,Tunisia,Sierra Leone,0,0,10/13/2012
 1,0,Uganda,Zambia,1,0,10/13/2012
 0,1,Brunei Darussalam,Timor-Leste,2,1,10/13/2012
@@ -13117,7 +13117,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Jamaica,Antigua and Barbuda,4,1,10/16/2012
 1,0,Latvia,Liechtenstein,2,0,10/16/2012
 1,0,Mexico,El Salvador,2,0,10/16/2012
-1,0,New Caledonia,Solomon Islands,5,0,10/16/2012
 1,0,New Zealand,Tahiti,3,0,10/16/2012
 1,0,Oman,Jordan,2,1,10/16/2012
 1,0,Paraguay,Peru,1,0,10/16/2012
@@ -13141,6 +13140,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Singapore,India,2,0,10/16/2012
 1,1,United Arab Emirates,Bahrain,6,2,10/16/2012
 1,1,Vietnam,Indonesia,0,0,10/16/2012
+1,0,New Caledonia,Solomon Islands,5,0,10/16/2012
 1,0,Poland,England,1,1,10/17/2012
 1,0,Guyana,St. Vincent / Grenadines,1,2,10/21/2012
 1,0,St. Lucia,Curacao,5,1,10/21/2012
@@ -13172,7 +13172,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Andorra,Iceland,0,2,11/14/2012
 0,1,Angola,Congo,1,1,11/14/2012
 1,1,Armenia,Lithuania,4,2,11/14/2012
-1,1,Austria,Côte d'Ivoire,0,3,11/14/2012
+1,1,Austria,Cote d'Ivoire,0,3,11/14/2012
 1,1,Bolivia,Costa Rica,1,1,11/14/2012
 0,1,Brazil,Colombia,1,1,11/14/2012
 1,1,Bulgaria,Ukraine,0,1,11/14/2012
@@ -13345,7 +13345,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Yemen,Iraq,0,2,1/12/2013
 0,1,Ghana,Tunisia,4,2,1/13/2013
 1,1,Panama,Guatemala,2,0,1/13/2013
-0,1,Côte d'Ivoire,Egypt,4,2,1/14/2013
+0,1,Cote d'Ivoire,Egypt,4,2,1/14/2013
 1,1,Bahrain,Iraq,1,1,1/15/2013
 0,1,Lebanon,Gabon,0,0,1/15/2013
 0,1,United Arab Emirates,Kuwait,1,0,1/15/2013
@@ -13366,7 +13366,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Nigeria,Burkina Faso,1,1,1/21/2013
 0,0,Zambia,Ethiopia,1,1,1/21/2013
 1,0,Costa Rica,Guatemala,1,1,1/22/2013
-0,0,Côte d'Ivoire,Togo,2,1,1/22/2013
+0,0,Cote d'Ivoire,Togo,2,1,1/22/2013
 1,0,Honduras,Panama,1,1,1/22/2013
 1,0,Nicaragua,Belize,1,2,1/22/2013
 0,0,Tunisia,Algeria,1,0,1/22/2013
@@ -13380,7 +13380,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Honduras,Belize,1,0,1/25/2013
 0,0,Zambia,Nigeria,1,1,1/25/2013
 0,0,Algeria,Togo,0,2,1/26/2013
-0,0,Côte d'Ivoire,Tunisia,3,0,1/26/2013
+0,0,Cote d'Ivoire,Tunisia,3,0,1/26/2013
 0,1,Canada,Denmark,0,4,1/26/2013
 0,0,Cape Verde Islands,Angola,2,1,1/27/2013
 1,0,Costa Rica,Honduras,1,0,1/27/2013
@@ -13391,7 +13391,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Burkina Faso,Zambia,0,0,1/29/2013
 0,0,Ethiopia,Nigeria,0,2,1/29/2013
 1,1,USA,Canada,0,0,1/29/2013
-0,0,Algeria,Côte d'Ivoire,2,2,1/30/2013
+0,0,Algeria,Cote d'Ivoire,2,2,1/30/2013
 0,0,Togo,Tunisia,1,1,1/30/2013
 0,1,Mexico,Denmark,1,1,1/30/2013
 1,1,Oman,China PR,1,0,1/30/2013
@@ -13400,7 +13400,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Ghana,Cape Verde Islands,2,0,2/2/2013
 1,0,South Africa,Mali,1,1,2/2/2013
 0,0,Burkina Faso,Togo,1,0,2/3/2013
-0,0,Côte d'Ivoire,Nigeria,1,2,2/3/2013
+0,0,Cote d'Ivoire,Nigeria,1,2,2/3/2013
 0,1,Luxembourg,Armenia,1,1,2/5/2013
 0,0,Burkina Faso,Ghana,1,1,2/6/2013
 1,0,Honduras,USA,2,1,2/6/2013
@@ -13512,7 +13512,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Malaysia,Yemen,2,1,3/22/2013
 1,0,Moldova,Montenegro,0,1,3/22/2013
 1,0,Netherlands,Estonia,3,0,3/22/2013
-1,0,New Zealand,New Caledonia,2,1,3/22/2013
 1,0,Norway,Albania,0,1,3/22/2013
 1,0,Peru,Chile,1,0,3/22/2013
 1,0,Poland,Ukraine,1,3,3/22/2013
@@ -13528,10 +13527,11 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Uruguay,Paraguay,1,1,3/22/2013
 1,0,USA,Costa Rica,1,0,3/22/2013
 0,1,Japan,Canada,2,1,3/22/2013
+1,0,New Zealand,New Caledonia,2,1,3/22/2013
 1,0,Burkina Faso,Niger,4,0,3/23/2013
 1,0,Cameroon,Togo,2,1,3/23/2013
 1,0,Congo,Gabon,1,0,3/23/2013
-1,0,Côte d'Ivoire,Gambia,3,0,3/23/2013
+1,0,Cote d'Ivoire,Gambia,3,0,3/23/2013
 1,0,Cyprus,Switzerland,0,0,3/23/2013
 1,0,Indonesia,Saudi Arabia,1,2,3/23/2013
 1,0,Namibia,Malawi,0,1,3/23/2013
@@ -13573,7 +13573,6 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mexico,USA,0,0,3/26/2013
 1,0,Montenegro,England,1,1,3/26/2013
 1,0,Netherlands,Romania,4,0,3/26/2013
-1,0,New Caledonia,Tahiti,1,0,3/26/2013
 1,0,Northern Ireland,Israel,0,2,3/26/2013
 1,0,Panama,Honduras,2,0,3/26/2013
 1,0,Philippines,Turkmenistan,1,0,3/26/2013
@@ -13590,6 +13589,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Luxembourg,Finland,0,3,3/26/2013
 1,1,Peru,Trinidad and Tobago,3,0,3/26/2013
 1,1,Slovakia,Sweden,0,0,3/26/2013
+1,0,New Caledonia,Tahiti,1,0,3/26/2013
 1,1,Bolivia,Brazil,0,4,4/6/2013
 0,1,Peru,Mexico,0,0,4/17/2013
 1,1,Qatar,Palestine,2,0,4/17/2013
@@ -13674,7 +13674,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Senegal,1,1,6/8/2013
 0,0,Central African Republic,South Africa,0,3,6/8/2013
 1,0,Gabon,Congo,0,0,6/8/2013
-1,0,Gambia,Côte d'Ivoire,0,3,6/8/2013
+1,0,Gambia,Cote d'Ivoire,0,3,6/8/2013
 1,0,Morocco,Tanzania,2,1,6/8/2013
 1,0,Sierra Leone,Tunisia,2,2,6/8/2013
 1,0,Switzerland,Cyprus,1,0,6/8/2013
@@ -13734,7 +13734,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Mozambique,Egypt,0,1,6/16/2013
 1,0,Rwanda,Algeria,0,1,6/16/2013
 0,0,Spain,Uruguay,2,1,6/16/2013
-1,0,Tanzania,Côte d'Ivoire,2,4,6/16/2013
+1,0,Tanzania,Cote d'Ivoire,2,4,6/16/2013
 0,0,Tahiti,Nigeria,1,6,6/17/2013
 1,0,Australia,Iraq,1,0,6/18/2013
 1,0,Costa Rica,Panama,2,0,6/18/2013
@@ -13761,7 +13761,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Malawi,Mozambique,0,1,7/6/2013
 1,1,Mali,Guinea,3,1,7/6/2013
 0,1,Namibia,Mauritius,2,1,7/6/2013
-1,1,Nigeria,Côte d'Ivoire,4,1,7/6/2013
+1,1,Nigeria,Cote d'Ivoire,4,1,7/6/2013
 1,1,Senegal,Mauritania,1,0,7/6/2013
 1,1,Tunisia,Morocco,0,1,7/6/2013
 0,0,Mexico,Panama,1,2,7/7/2013
@@ -13815,7 +13815,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Korea Republic,China PR,0,0,7/24/2013
 0,1,Japan,Australia,3,2,7/25/2013
 1,1,Botswana,Zambia,1,1,7/27/2013
-1,1,Côte d'Ivoire,Nigeria,2,0,7/27/2013
+1,1,Cote d'Ivoire,Nigeria,2,0,7/27/2013
 1,1,Niger,Burkina Faso,1,0,7/27/2013
 1,1,Rwanda,Ethiopia,1,0,7/27/2013
 1,1,Uganda,Tanzania,3,1,7/27/2013
@@ -13861,7 +13861,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Korea Republic,Peru,0,0,8/14/2013
 1,1,Liechtenstein,Croatia,2,3,8/14/2013
 1,1,Luxembourg,Lithuania,2,1,8/14/2013
-0,1,Mexico,Côte d'Ivoire,4,1,8/14/2013
+0,1,Mexico,Cote d'Ivoire,4,1,8/14/2013
 1,1,Moldova,Andorra,1,1,8/14/2013
 1,1,Morocco,Burkina Faso,1,2,8/14/2013
 1,1,Poland,Denmark,3,2,8/14/2013
@@ -13948,7 +13948,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Liberia,4,1,9/7/2013
 1,0,Burkina Faso,Gabon,1,0,9/7/2013
 0,0,Central African Republic,Ethiopia,1,2,9/7/2013
-1,0,Côte d'Ivoire,Morocco,1,1,9/7/2013
+1,0,Cote d'Ivoire,Morocco,1,1,9/7/2013
 1,0,Gambia,Tanzania,2,0,9/7/2013
 1,0,Israel,Azerbaijan,1,1,9/7/2013
 1,0,Niger,Congo,2,2,9/7/2013
@@ -14056,7 +14056,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Philippines,Chinese Taipei,1,2,10/11/2013
 1,1,Serbia,Japan,2,0,10/11/2013
 1,0,Burkina Faso,Algeria,3,2,10/12/2013
-1,0,Côte d'Ivoire,Senegal,3,1,10/12/2013
+1,0,Cote d'Ivoire,Senegal,3,1,10/12/2013
 1,1,Korea Republic,Brazil,0,2,10/12/2013
 1,0,Ethiopia,Nigeria,1,2,10/13/2013
 1,0,Qatar,Yemen,6,0,10/13/2013
@@ -14153,7 +14153,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Swaziland,South Africa,0,3,11/15/2013
 1,1,Turkey,Northern Ireland,1,0,11/15/2013
 1,0,Nigeria,Ethiopia,2,0,11/16/2013
-0,0,Senegal,Côte d'Ivoire,1,1,11/16/2013
+0,0,Senegal,Cote d'Ivoire,1,1,11/16/2013
 1,1,Curacao,Suriname,1,3,11/16/2013
 1,1,Equatorial Guinea,Spain,1,2,11/16/2013
 0,1,Honduras,Brazil,0,5,11/16/2013
@@ -14306,7 +14306,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Australia,Ecuador,3,4,3/5/2014
 1,1,Austria,Uruguay,1,1,3/5/2014
 0,1,Azerbaijan,Philippines,1,0,3/5/2014
-1,1,Belgium,Côte d'Ivoire,2,2,3/5/2014
+1,1,Belgium,Cote d'Ivoire,2,2,3/5/2014
 0,1,Bosnia-Herzegovina,Egypt,0,2,3/5/2014
 1,1,Botswana,South Sudan,3,0,3/5/2014
 1,1,Bulgaria,Belarus,2,1,3/5/2014
@@ -14445,7 +14445,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Palestine,Philippines,1,0,5/30/2014
 0,0,South Sudan,Mozambique,0,0,5/30/2014
 1,1,Austria,Iceland,1,1,5/30/2014
-0,1,Bosnia-Herzegovina,Côte d'Ivoire,2,1,5/30/2014
+0,1,Bosnia-Herzegovina,Cote d'Ivoire,2,1,5/30/2014
 1,1,Chile,Egypt,3,2,5/30/2014
 1,1,England,Peru,3,0,5/30/2014
 0,1,Iran,Angola,1,1,5/30/2014
@@ -14494,7 +14494,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Argentina,Trinidad and Tobago,3,0,6/4/2014
 1,1,Chile,Northern Ireland,2,0,6/4/2014
 0,1,Ecuador,England,2,2,6/4/2014
-0,1,El Salvador,Côte d'Ivoire,1,2,6/4/2014
+0,1,El Salvador,Cote d'Ivoire,1,2,6/4/2014
 1,1,Hungary,Albania,1,0,6/4/2014
 1,1,Iceland,Estonia,1,0,6/4/2014
 1,1,Italy,Luxembourg,1,1,6/4/2014
@@ -14529,7 +14529,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Mexico,Cameroon,1,0,6/13/2014
 0,0,Spain,Netherlands,1,5,6/13/2014
 0,0,Colombia,Greece,3,0,6/14/2014
-0,0,Côte d'Ivoire,Japan,2,1,6/14/2014
+0,0,Cote d'Ivoire,Japan,2,1,6/14/2014
 0,0,England,Italy,1,2,6/14/2014
 0,0,Uruguay,Costa Rica,1,3,6/14/2014
 0,0,Argentina,Bosnia-Herzegovina,2,1,6/15/2014
@@ -14545,7 +14545,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Cameroon,Croatia,0,4,6/18/2014
 0,0,Spain,Chile,0,2,6/18/2014
 1,1,China PR,FYR Macedonia,2,0,6/18/2014
-0,0,Colombia,Côte d'Ivoire,2,1,6/19/2014
+0,0,Colombia,Cote d'Ivoire,2,1,6/19/2014
 0,0,Japan,Greece,0,0,6/19/2014
 0,0,Uruguay,England,2,1,6/19/2014
 0,0,Honduras,Ecuador,1,2,6/20/2014
@@ -14563,7 +14563,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Croatia,Mexico,1,3,6/23/2014
 0,0,Netherlands,Chile,2,0,6/23/2014
 0,0,Costa Rica,England,0,0,6/24/2014
-0,0,Greece,Côte d'Ivoire,2,1,6/24/2014
+0,0,Greece,Cote d'Ivoire,2,1,6/24/2014
 0,0,Italy,Uruguay,0,1,6/24/2014
 0,0,Japan,Colombia,1,4,6/24/2014
 0,0,Bosnia-Herzegovina,Iran,3,1,6/25/2014
@@ -14672,7 +14672,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Korea Republic,Venezuela,3,1,9/5/2014
 1,0,Burkina Faso,Lesotho,2,0,9/6/2014
 1,0,Congo DR,Cameroon,0,2,9/6/2014
-1,0,Côte d'Ivoire,Sierra Leone,2,1,9/6/2014
+1,0,Cote d'Ivoire,Sierra Leone,2,1,9/6/2014
 1,0,Ethiopia,Algeria,1,2,9/6/2014
 1,0,Gabon,Angola,1,0,9/6/2014
 1,0,Ghana,Uganda,1,1,9/6/2014
@@ -14738,7 +14738,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Angola,Burkina Faso,0,3,9/10/2014
 0,0,Belize,El Salvador,0,2,9/10/2014
 1,0,Botswana,Senegal,0,2,9/10/2014
-1,0,Cameroon,Côte d'Ivoire,4,1,9/10/2014
+1,0,Cameroon,Cote d'Ivoire,4,1,9/10/2014
 1,0,Cape Verde Islands,Zambia,2,1,9/10/2014
 1,0,Congo,Sudan,2,0,9/10/2014
 1,0,Congo DR,Sierra Leone,2,0,9/10/2014
@@ -14810,7 +14810,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Armenia,Serbia,1,1,10/11/2014
 1,0,Cameroon,Sierra Leone,0,0,10/11/2014
 1,0,Congo,South Africa,0,2,10/11/2014
-0,0,Congo DR,Côte d'Ivoire,1,2,10/11/2014
+0,0,Congo DR,Cote d'Ivoire,1,2,10/11/2014
 1,0,Ethiopia,Mali,0,2,10/11/2014
 1,0,Finland,Greece,1,1,10/11/2014
 1,0,Gabon,Burkina Faso,2,0,10/11/2014
@@ -14883,7 +14883,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Burkina Faso,Gabon,1,1,10/15/2014
 1,0,Cameroon,Sierra Leone,2,0,10/15/2014
 1,0,Cape Verde Islands,Mozambique,1,0,10/15/2014
-1,0,Côte d'Ivoire,Congo DR,3,4,10/15/2014
+1,0,Cote d'Ivoire,Congo DR,3,4,10/15/2014
 1,0,Egypt,Botswana,2,0,10/15/2014
 1,0,Ghana,Guinea,3,1,10/15/2014
 1,0,Mali,Ethiopia,2,3,10/15/2014
@@ -14900,7 +14900,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Cambodia,Brunei Darussalam,1,0,10/20/2014
 1,1,Laos,Myanmar,1,2,10/20/2014
 1,1,Bangladesh,Sri Lanka,1,1,10/24/2014
-1,1,Zambia,Côte d'Ivoire,1,1,10/25/2014
+1,1,Zambia,Cote d'Ivoire,1,1,10/25/2014
 1,1,Bangladesh,Sri Lanka,1,0,10/27/2014
 0,1,Korea DPR,Kuwait,0,1,10/31/2014
 0,1,Philippines,Nepal,3,0,10/31/2014
@@ -14931,7 +14931,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Uruguay,Costa Rica,3,3,11/13/2014
 0,1,Yemen,Bahrain,0,0,11/13/2014
 1,0,Botswana,Tunisia,0,0,11/14/2014
-1,0,Côte d'Ivoire,Sierra Leone,5,1,11/14/2014
+1,0,Cote d'Ivoire,Sierra Leone,5,1,11/14/2014
 1,0,Georgia,Poland,0,4,11/14/2014
 1,0,Greece,Faroe Islands,0,1,11/14/2014
 1,0,Hungary,Finland,1,0,11/14/2014
@@ -15023,7 +15023,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Ukraine,Lithuania,0,0,11/18/2014
 1,0,Burkina Faso,Angola,1,1,11/19/2014
 1,0,Congo DR,Sierra Leone,3,1,11/19/2014
-1,0,Côte d'Ivoire,Cameroon,0,0,11/19/2014
+1,0,Cote d'Ivoire,Cameroon,0,0,11/19/2014
 1,0,Ethiopia,Malawi,0,0,11/19/2014
 1,0,Gabon,Lesotho,4,2,11/19/2014
 1,0,Ghana,Togo,3,1,11/19/2014
@@ -15057,7 +15057,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,1,Vietnam,Philippines,3,1,11/28/2014
 1,1,Singapore,Malaysia,1,3,11/29/2014
 0,1,Thailand,Myanmar,2,0,11/29/2014
-1,1,South Africa,Côte d'Ivoire,2,0,11/30/2014
+1,1,South Africa,Cote d'Ivoire,2,0,11/30/2014
 1,1,Philippines,Thailand,0,0,12/6/2014
 1,1,Malaysia,Vietnam,1,2,12/7/2014
 1,1,Thailand,Philippines,3,0,12/10/2014
@@ -15089,7 +15089,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Korea DPR,Saudi Arabia,1,4,1/14/2015
 0,0,Bahrain,United Arab Emirates,1,2,1/15/2015
 0,0,Qatar,Iran,0,1,1/15/2015
-0,1,Sweden,Côte d'Ivoire,2,0,1/15/2015
+0,1,Sweden,Cote d'Ivoire,2,0,1/15/2015
 0,0,Iraq,Japan,0,1,1/16/2015
 0,0,Palestine,Jordan,1,5,1/16/2015
 0,1,Canada,Iceland,1,2,1/16/2015
@@ -15106,7 +15106,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Iran,United Arab Emirates,1,0,1/19/2015
 0,0,Qatar,Bahrain,1,2,1/19/2015
 0,1,Canada,Iceland,1,1,1/19/2015
-0,0,Côte d'Ivoire,Guinea,1,1,1/20/2015
+0,0,Cote d'Ivoire,Guinea,1,1,1/20/2015
 0,0,Iraq,Palestine,2,0,1/20/2015
 0,0,Japan,Jordan,2,0,1/20/2015
 0,0,Mali,Cameroon,1,1,1/20/2015
@@ -15121,7 +15121,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,0,Japan,United Arab Emirates,1,1,1/23/2015
 0,0,South Africa,Senegal,1,1,1/23/2015
 0,0,Cameroon,Guinea,1,1,1/24/2015
-0,0,Côte d'Ivoire,Mali,1,1,1/24/2015
+0,0,Cote d'Ivoire,Mali,1,1,1/24/2015
 0,0,Congo,Burkina Faso,2,1,1/25/2015
 1,0,Equatorial Guinea,Gabon,0,2,1/25/2015
 0,0,Cape Verde Islands,Zambia,0,0,1/26/2015
@@ -15130,23 +15130,23 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Australia,United Arab Emirates,2,0,1/27/2015
 0,0,Senegal,Algeria,0,2,1/27/2015
 0,0,South Africa,Ghana,1,2,1/27/2015
-0,0,Cameroon,Côte d'Ivoire,0,1,1/28/2015
+0,0,Cameroon,Cote d'Ivoire,0,1,1/28/2015
 0,0,Guinea,Mali,1,1,1/28/2015
 1,1,Chile,USA,3,2,1/28/2015
 0,0,Iraq,United Arab Emirates,2,3,1/30/2015
 1,0,Australia,Korea Republic,1,2,1/31/2015
 0,0,Congo,Congo DR,2,4,1/31/2015
 1,0,Equatorial Guinea,Tunisia,1,2,1/31/2015
-0,0,Côte d'Ivoire,Algeria,3,1,2/1/2015
+0,0,Cote d'Ivoire,Algeria,3,1,2/1/2015
 0,0,Ghana,Guinea,3,0,2/1/2015
 1,1,Barbados,Guyana,2,2,2/1/2015
 1,1,Bangladesh,Sri Lanka,1,0,2/2/2015
-0,0,Congo DR,Côte d'Ivoire,1,3,2/4/2015
+0,0,Congo DR,Cote d'Ivoire,1,3,2/4/2015
 1,1,Honduras,Venezuela,2,3,2/4/2015
 1,0,Equatorial Guinea,Ghana,3,0,2/5/2015
 1,1,Pakistan,Afghanistan,2,1,2/6/2015
 1,0,Equatorial Guinea,Congo DR,0,0,2/7/2015
-0,0,Côte d'Ivoire,Ghana,0,0,2/8/2015
+0,0,Cote d'Ivoire,Ghana,0,0,2/8/2015
 1,1,USA,Panama,2,0,2/8/2015
 1,1,Venezuela,Honduras,2,1,2/11/2015
 1,1,Kazakhstan,Moldova,1,1,2/18/2015
@@ -15190,7 +15190,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,US Virgin Islands,Barbados,0,4,3/26/2015
 1,1,Bahrain,Colombia,0,6,3/26/2015
 1,1,Costa Rica,Paraguay,0,0,3/26/2015
-1,1,Côte d'Ivoire,Angola,2,0,3/26/2015
+1,1,Cote d'Ivoire,Angola,2,0,3/26/2015
 1,1,Egypt,Equatorial Guinea,2,0,3/26/2015
 1,1,France,Brazil,1,3,3/26/2015
 0,1,Iran,Chile,2,0,3/26/2015
@@ -15244,7 +15244,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Romania,Faroe Islands,1,0,3/29/2015
 1,1,Botswana,Mozambique,1,2,3/29/2015
 0,1,Brazil,Chile,1,0,3/29/2015
-1,1,Côte d'Ivoire,Equatorial Guinea,1,1,3/29/2015
+1,1,Cote d'Ivoire,Equatorial Guinea,1,1,3/29/2015
 1,1,France,Denmark,2,0,3/29/2015
 1,1,Guyana,Grenada,2,0,3/29/2015
 1,1,Seychelles,Kenya,0,2,3/29/2015
@@ -15469,7 +15469,7 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 1,0,Sweden,Montenegro,3,1,6/14/2015
 1,0,Togo,Liberia,2,1,6/14/2015
 1,0,Ukraine,Luxembourg,3,0,6/14/2015
-1,1,Gabon,Côte d'Ivoire,0,0,6/14/2015
+1,1,Gabon,Cote d'Ivoire,0,0,6/14/2015
 1,0,Bermuda,Guatemala,0,1,6/15/2015
 1,0,Chile,Mexico,3,3,6/15/2015
 0,0,Ecuador,Bolivia,2,3,6/15/2015
@@ -15533,12 +15533,30 @@ HOMEADV,FRIENDLY,HOME,AWAY,HG,AG,DATE
 0,1,Honduras,Mexico,0,0,7/1/2015
 0,0,Peru,Paraguay,2,0,7/3/2015
 1,1,USA,Guatemala,4,0,7/3/2015
-1,0,Angola,Swaziland,2,0,7/4/2015
-1,0,Botswana,Lesotho,1,1,7/4/2015
-1,0,Burundi,Djibouti,2,0,7/4/2015
 1,0,Chile,Argentina,0,0,7/4/2015
 1,0,Comoros,Zimbabwe,0,0,7/4/2015
-1,0,Kenya,Ethiopia,0,0,7/4/2015
 1,0,Seychelles,Mozambique,0,4,7/4/2015
-1,0,Uganda,Tanzania,1,1,7/4/2015
+1,0,Botswana,Lesotho,1,1,7/4/2015
+1,0,Burundi,Djibouti,2,0,7/4/2015
+1,0,Kenya,Ethiopia,0,0,7/4/2015
 1,0,Zambia,Namibia,3,1,7/4/2015
+1,0,Uganda,Tanzania,1,1,7/4/2015
+1,0,Angola,Swaziland,2,0,7/4/2015
+1,0,Gambia,Senegal,0,1,7/4/2015
+1,1,Mauritius,South Africa,0,2,7/5/2015
+1,1,Mali,Guinea-Bissau,3,1,7/5/2015
+1,1,Liberia,Guinea,1,1,7/5/2015
+1,1,Malawi,Uganda,1,0,7/6/2015
+0,0,Panama,Haiti,1,1,7/7/2015
+1,0,USA,Honduras,2,1,7/7/2015
+0,0,Costa Rica,Jamaica,2,2,7/8/2015
+0,0,El Salvador,Canada,0,0,7/8/2015
+0,0,Trinidad and Tobago,Guatemala,3,1,7/9/2015
+0,0,Mexico,Cuba,6,0,7/9/2015
+0,0,Honduras,Panama,1,1,7/10/2015
+1,0,USA,Haiti,1,0,7/10/2015
+0,0,Jamaica,Canada,1,0,7/11/2015
+0,0,Costa Rica,El Salvador,1,1,7/11/2015
+0,0,Trinidad and Tobago,Cuba,2,0,7/12/2015
+0,0,Guatemala,Mexico,0,0,7/12/2015
+0,0,Haiti,Honduras,1,0,7/13/2015

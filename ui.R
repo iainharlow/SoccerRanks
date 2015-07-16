@@ -18,9 +18,9 @@ shinyUI(fluidPage(
             br(),
             h4("Date Range"),
             dateRangeInput("daterange", 
-                           label="Adjust the date range you'd like to consider results between. Results begin from Jan 1st 2006. Longer ranges give more stable results, but may take longer to run.",
-                           start = "2006-01-01",
-                           min = "2005-12-31",
+                           label="Adjust the date range you'd like to consider results between. Results begin from Jan 1st 1998. Longer ranges give more stable results, but may take longer to run.",
+                           start = "1998-01-01",
+                           min = "1998-01-01",
                            format = "dd-M-yyyy",
                            startview = "year",
                            separator = " to "),
@@ -46,7 +46,7 @@ shinyUI(fluidPage(
                         min = 0, 
                         max = 1,
                         step = 0.01,
-                        ticks = c("0%","50%","100%")),
+                        ticks = TRUE),
             
             br(),
             br(),
@@ -61,7 +61,7 @@ shinyUI(fluidPage(
                         min = 0, 
                         max = 3,
                         step = 1,
-                        ticks = c("None","Light","Normal","Aggressive")),
+                        ticks = TRUE),
             
             br(),
             
@@ -71,8 +71,8 @@ shinyUI(fluidPage(
                         min = 0, 
                         max = 3,
                         step = 1,
-                        ticks = c("None","Light","Normal","Aggressive"))
-
+                        ticks = TRUE)
+            
         ),
         
         mainPanel(
@@ -83,7 +83,7 @@ shinyUI(fluidPage(
                          br(),
                          h4("The Basic Idea"),
                          p("Quick caveat - this is an early version of the app, and it's likely to evolve considerably to allow finer control, and more datasets."),
-                         p("This app comes pre-loaded with every Fifa-registered international soccer match between 1 Jan 2006 and 21 Nov 2014. We're going to use these results to build a ranking of international teams, based on the frequency they score and concede goals against a typical opponent. The advantage of this approach (rather than, say, assigning points for wins) is that it should be predictive: We're attempting to estimate statistics for each team that have some real-world meaning. The basic idea is that a higher-ranked team should be the favourite in a match against any lower-ranked opponent. That's a property the existing FIFA rankings do not guarantee."),
+                         p("This app comes pre-loaded with every Fifa-registered international soccer match between 1 Jan 1998 and 4 Jul 2015. We're going to use these results to build a ranking of international teams, based on the frequency they score and concede goals against a typical opponent. The advantage of this approach (rather than, say, assigning points for wins) is that it should be predictive: We're attempting to estimate statistics for each team that have some real-world meaning. The basic idea is that a higher-ranked team should be the favourite in a match against any lower-ranked opponent. That's a property the existing FIFA rankings do not guarantee."),
                          p("Specifically, we're modelling the scoring of goals in a match as a poisson process, with each team's rate controlled by their attack multiplied by their opponent's defence (further multiplied by a constant, and also a home advantage factor, both of which the model calculates too). So high attack/defence values (>1) indicate the team scores/concedes more than average. The best teams will have a high attack and a low defence value, i.e. they'll score more than they concede against a typical opponent. It's possible to model goalscoring itself more accurately than we're doing here, of course. We're just using a simple independent poisson process, but in reality, goals scored by each team are likely not independent, since teams generally make more effort to attack when they are trailing. Those details, though, will have less effect on a ranking than they would on a score prediction, so we'll save that for a future update :-)."),
                          br(),
                          h4("Setting Parameters"),
@@ -95,7 +95,7 @@ shinyUI(fluidPage(
                          p("ADVANCED OPTIONS. These currently allow you to downweight outliers (very unusual results) and stabilise team strength estimates, e.g. to account somewhat for regression to the mean and allow teams with few matches played to be entered into the model without it breaking. They're not always guaranteed to help though so be cautious with them! In particular, you may find with this dataset that stabilising team parameters inflates the strength of teams who've played (and thoroughly beaten) a lot of poor teams. Above-average island teams such as Fiji or New Caledonia are prime examples of this. In the future, options to adjust the model itself (modifications of the simple poisson for example) or to downweight large margin results will likely be included."),
                          br(),
                          h4("View Weighting Tab"),
-                         p("Use this tab to fine-tune your date weighting parameters - the plot visualises how much weight is given to results from different times. Note that the 'View Weights' part of the app is sufficiently complex for the Data Products assignment, so if you're here to mark that - and you don't have much time (or interest in this app!) then you won't actually need to run the actual MLE solver."),
+                         p("Use this tab to fine-tune your date weighting parameters - the plot visualises how much weight is given to results from different times."),
                          br(),
                          h4("Fit Data Tab"),
                          p("Once you have the parameters you want, head here to run the mle solver. You can select the number of iterations to run - higher gets you considerably more accuracy, but takes a few minutes. If you just want to try it out and see the data table, you can run 5-20 iterations fairly quickly, less than a minute generally."),
@@ -108,23 +108,20 @@ shinyUI(fluidPage(
                          p("DEFENCE: The mean number of goals conceded per game against an average team, on neutral territory, relative to the overall mean."),
                          p("WIN CHANCE v USA: Since the 'average' team in this dataset is not that good (only the top 15% of sides reach the World Cup Finals for example), we can use a decent 'baseline' team - the USA - to compare the elite sides. The percentage here is the implied probability of the team beating the USA in a knockout match on neutral territory."),
                          p("RATING: A simple summary statistic from 0 (worst) to 1000 (best). It's a little more abstracted from the data, but allows a quick comparison of teams. It's constructed as the log of the attack/defence ratio for each team, expressed as a quantile of that distribution, and scaled to 1000. So 920 means that 920 out of 1000 teams would have a worse attack/defence ratio if you sampled them randomly. Another way of thinking about it: If you let every team play against the 'average' team for a very long time, and kept track of the goals they scored/conceded, the higher ranked teams by this 0-1000 rating should end up scoring the most goals for every one they concede."),
-                         p("Wondering why the Rating and the Chance v USA aren't perfectly correlated? It's because winning a game doesn't just rely on your score/concede ratio, it also requires getting enough goals to be ahead in the 90 minutes you play for. So a team who score 1.5 and concede 0.5 on average are less likely to beat a weaker opponent than a team who score 3 and concede 1 on average - even though they both have a 3:1 score:concede ratio. Vice-versa, a defensive team is more likely than an attacking team to get an upset against someone stronger than them (e.g. by winning 1-0 or drawing 0-0 or 1-1)."),
-                         br(),
-                         h4("The Source Code!"),
-                         p("The source code, along with the database of results used, are all available at http://github.com/iainharlow/SoccerRanks.")
-                         ),
+                         p("Wondering why the Rating and the Chance v USA aren't perfectly correlated? It's because winning a game doesn't just rely on your score/concede ratio, it also requires getting enough goals to be ahead in the 90 minutes you play for. So a team who score 1.5 and concede 0.5 on average are less likely to beat a weaker opponent than a team who score 3 and concede 1 on average - even though they both have a 3:1 score:concede ratio. Vice-versa, a defensive team is more likely than an attacking team to get an upset against someone stronger than them (e.g. by winning 1-0 or drawing 0-0 or 1-1).")
+                ),
                 tabPanel("View Weighting",
                          h3("Decay Function Chosen"),
                          helpText("This plot shows the weighting applied to each result, as a function of when it was played. Update the weighting function as you wish by adjusting the parameters on the left."),
                          br(),
                          plotOutput(outputId = "dateplot",
                                     height = "300px")
-                         ),
+                ),
                 tabPanel("Fit Data",
                          h3("Estimate Team Rankings using Maximum Likelihood Estimation"),
                          p("Here you can estimate the strengths of international soccer teams. When you click the buttons below, the app will use all of the results in the range you selected - along with your other parameter choices - to estimate the strengths of each team."),
                          br(),
-                         p("Fair warning: This may take some time. If you're just here to mark the app for the Data Products class, and you don't care about soccer, you don't have to run the MLE solver at all - the parameter selection part of the app fulfils all of the simple criteria required by the assignment."),
+                         p("Fair warning: This may take some time."),
                          br(),
                          p("But! If you are interested, I encourage you to try it out. Set your weighting parameters, choose a number of iterations to run, and click the button to start the algorithm running. Once it has finished, you can see the calculated table in the View Results tab. For the first run, try a low number of iterations - 10 iterations should run in under 30 seconds. 100 iterations will be much more accurate, especially for teams who face a limited variety of opposition (e.g. Pacific Island teams) - but it may take a few minutes to run. Note that the total run time and accuracy/stability increase with both iterations and matches (i.e. date range). See the User Guide for some benchmark timings."),
                          br(),
@@ -140,13 +137,13 @@ shinyUI(fluidPage(
                          br(),
                          textOutput("text1"),
                          textOutput("text2")
-                         ),
+                ),
                 tabPanel("View Results",
                          h3("Ranking Table"),
                          br(),
                          dataTableOutput(outputId="table")
-                         )
-            
+                )
+                
             )
         )
     )
